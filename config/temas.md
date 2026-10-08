@@ -19,7 +19,7 @@ Edita este archivo para cambiar qué vigila el agente. No hace falta tocar nada 
 |---|---|---|
 | Anthropic | Claude (apps, API), Claude Code, modelos Opus / Sonnet / Haiku / Fable | https://www.anthropic.com/news · https://platform.claude.com/docs/en/release-notes/overview |
 | OpenAI | ChatGPT, modelos GPT, Codex, Sora, API | https://openai.com/news · https://help.openai.com/en/articles/6825453-chatgpt-release-notes |
-| Google | Gemini (app, API, Workspace), DeepMind, NotebookLM | https://blog.google/products/gemini/ · https://workspaceupdates.googleblog.com · https://ai.google.dev/gemini-api/docs/changelog |
+| Google | Gemini (app, API, Workspace), **Gemini Enterprise** y **Gemini Enterprise Agent Platform** (antes Vertex AI, incl. modelos de terceros como Claude), DeepMind, NotebookLM | https://blog.google/products/gemini/ · https://workspaceupdates.googleblog.com · https://ai.google.dev/gemini-api/docs/changelog · https://cloud.google.com/gemini/enterprise/docs/release-notes · https://docs.cloud.google.com/gemini-enterprise-agent-platform/release-notes |
 | Microsoft | Copilot (consumo, Microsoft 365, GitHub Copilot), Azure AI | https://techcommunity.microsoft.com/category/microsoft365copilot · https://github.blog/changelog/ |
 
 ## Otras IAs importantes (prioridad media)
