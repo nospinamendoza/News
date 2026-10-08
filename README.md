@@ -112,6 +112,14 @@ Las rutinas ya quedaron creadas en tu cuenta durante la configuración:
 
 Para verlas, pausarlas o cambiar el horario: **claude.ai/code → Routines**.
 
+> ⚠️ **Un paso que debes hacer tú (2 minutos):** las rutinas se crearon sin conectores,
+> porque tu organización no permite asignarlos desde una sesión. Entra a
+> **claude.ai/code → Routines**, abre cada rutina (`Radar IA — Informe matutino` y
+> `Radar IA — Alertas proactivas`), y en **Connectors** activa **Gmail** y **Google Drive**. Guarda.
+> Mientras no lo hagas, la rutina igual corre, guarda el informe en GitHub y te llega una
+> **notificación push** al celular con el resumen, pero no podrá enviarte el correo ni crear el Doc en Drive.
+> Luego pulsa **Run now** en la matutina para comprobar que te llega el correo.
+
 ¿Quieres crear una tú mismo (para aprender)?
 1. Ve a **claude.ai/code → Routines → New routine** (o escribe `/schedule` en Claude Code).
 2. Elige este repositorio y el entorno.
