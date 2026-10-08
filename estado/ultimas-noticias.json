@@ -160,6 +160,14 @@
       "fecha_anuncio": "2026-10-08",
       "url": "https://www.anthropic.com/news/genesis-mission-commitment",
       "reportado_en": "informes/2026-10-08-1526.md"
+    },
+    {
+      "id": "google-gemini-4-argon",
+      "titulo": "Gemini 4 Argon (acceso restringido, Fairwind)",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-09-30",
+      "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+      "reportado_en": "chat 2026-10-08 (pregunta de Nicolás); avisar cuando llegue al API / AI Ultra / app"
     }
   ]
 }
