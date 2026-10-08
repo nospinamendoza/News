@@ -168,6 +168,14 @@
       "fecha_anuncio": "2026-09-30",
       "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
       "reportado_en": "chat 2026-10-08 (pregunta de Nicolás); avisar cuando llegue al API / AI Ultra / app"
+    },
+    {
+      "id": "google-gemini-agent-gemini-at-work-2026",
+      "titulo": "Gemini agent (agente universal) en Gemini at Work 2026",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-08",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "reportado_en": "chat 2026-10-08 (pregunta de Nicolás); avisar cuando salga de private preview"
     }
   ]
 }
