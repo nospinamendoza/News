@@ -1,24 +1,165 @@
 {
-  "actualizado": "2026-10-08T15:10:00-05:00",
+  "actualizado": "2026-10-08T15:35:00-05:00",
   "noticias": [
-    { "id": "anthropic-haiku-5-5", "titulo": "Claude Haiku 5.5", "empresa": "Anthropic", "fecha_anuncio": "2026-10-07", "url": "https://www.anthropic.com/claude-haiku-5-5", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "anthropic-cyber-mission", "titulo": "Anthropic Cyber Mission", "empresa": "Anthropic", "fecha_anuncio": "2026-10-08", "url": "https://www.anthropic.com/news/anthropic-cyber-mission", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "anthropic-startups-2026-10", "titulo": "Claude for Startups ampliado", "empresa": "Anthropic", "fecha_anuncio": "2026-10-06", "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "anthropic-cyber-verification", "titulo": "Cyber Verification Program ampliado", "empresa": "Anthropic", "fecha_anuncio": "2026-10-06", "url": "https://www.anthropic.com/news/cyber-verification-program", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "anthropic-frontier-academy", "titulo": "US$100M para formar 10.000 ingenieros", "empresa": "Anthropic", "fecha_anuncio": "2026-10-02", "url": "https://www.anthropic.com/news/claude-frontier-academy", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "anthropic-usage-policy-2026", "titulo": "Actualización Política de Uso 2026", "empresa": "Anthropic", "fecha_anuncio": "2026-10-08", "url": "https://www.anthropic.com/news/2026-usage-policy-update", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "openai-gpt6-intelligent-ui", "titulo": "GPT-6 + Intelligent UI en ChatGPT", "empresa": "OpenAI", "fecha_anuncio": "2026-10-07", "url": "https://openai.com/index/gpt-6-for-everyone/", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "openai-audio-uploads", "titulo": "Subida de audios en ChatGPT", "empresa": "OpenAI", "fecha_anuncio": "2026-10-06", "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "openai-finances-free", "titulo": "Finances en ChatGPT Free/Go (EE. UU.)", "empresa": "OpenAI", "fecha_anuncio": "2026-10-02", "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "openai-try-on", "titulo": "Probador virtual en ChatGPT", "empresa": "OpenAI", "fecha_anuncio": "2026-10-01", "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "google-gemini-skills", "titulo": "Gemini Skills reemplaza Gems", "empresa": "Google", "fecha_anuncio": "2026-10-05", "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "google-gemini-free-limits", "titulo": "Límites de modelos en Gemini gratis", "empresa": "Google", "fecha_anuncio": "2026-10-03", "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "google-nano-banana-2-1", "titulo": "Nano Banana 2.1 GA", "empresa": "Google", "fecha_anuncio": "2026-10-06", "url": "https://releasebot.io/updates/google", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "microsoft-copilot-redesign-oct", "titulo": "Copilot rediseñado: Home, Code, Autopilot", "empresa": "Microsoft", "fecha_anuncio": "2026-10-01", "url": "https://m365copilotconnection.substack.com/p/copilots-biggest-october-2026-updates", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "microsoft-copilot-credits", "titulo": "Copilot Credits / nuevo cobro", "empresa": "Microsoft", "fecha_anuncio": "2026-10-01", "url": "https://changepilot.cloud/blog/october-2026-microsoft-365-updates-copilot-billing-home-more", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "microsoft-sharepoint-copilot-ga", "titulo": "Copilot en SharePoint/OneDrive GA", "empresa": "Microsoft", "fecha_anuncio": "2026-10-01", "url": "https://techcommunity.microsoft.com/blog/spblog/what%E2%80%99s-new-in-copilot-in-sharepoint-october-2026/4535423", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "mistral-large-4", "titulo": "Mistral Large 4 preview", "empresa": "Mistral", "fecha_anuncio": "2026-10-06", "url": "https://dev.to/alexmercedcoder/ai-weekly-mistral-large-4-and-the-decision-model-wave-38k4", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "meta-sierra-personal-agent-protocol", "titulo": "Personal Agent Protocol (Meta + Sierra)", "empresa": "Meta", "fecha_anuncio": "2026-10-07", "url": "https://techstartups.com/2026/10/07/top-tech-news-today-october-7-2026-anthropic-elevenlabs-google-meta-mistral-nvidia-spacex-more", "reportado_en": "informes/2026-10-08.md" },
-    { "id": "hark-pro-app", "titulo": "Hark Pro app de agente proactivo", "empresa": "Startup", "fecha_anuncio": "2026-10-06", "url": "https://www.bloomberg.com/news/articles/2026-10-06/ai-startup-hark-debuts-proactive-hark-pro-app-ahead-of-2027-hardware-launch", "reportado_en": "informes/2026-10-08.md" }
+    {
+      "id": "anthropic-haiku-5-5",
+      "titulo": "Claude Haiku 5.5",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-07",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "anthropic-cyber-mission",
+      "titulo": "Anthropic Cyber Mission",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-08",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "anthropic-startups-2026-10",
+      "titulo": "Claude for Startups ampliado",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-06",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "anthropic-cyber-verification",
+      "titulo": "Cyber Verification Program ampliado",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-06",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "anthropic-frontier-academy",
+      "titulo": "US$100M para formar 10.000 ingenieros",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-02",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "anthropic-usage-policy-2026",
+      "titulo": "Actualización Política de Uso 2026",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-08",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "reportado_en": "informes/2026-10-08.md, informes/2026-10-08-1526.md"
+    },
+    {
+      "id": "openai-gpt6-intelligent-ui",
+      "titulo": "GPT-6 + Intelligent UI en ChatGPT",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-07",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "openai-audio-uploads",
+      "titulo": "Subida de audios en ChatGPT",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-06",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "openai-finances-free",
+      "titulo": "Finances en ChatGPT Free/Go (EE. UU.)",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-02",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "openai-try-on",
+      "titulo": "Probador virtual en ChatGPT",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-01",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "google-gemini-skills",
+      "titulo": "Gemini Skills reemplaza Gems",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-05",
+      "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "google-gemini-free-limits",
+      "titulo": "Límites de modelos en Gemini gratis",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-03",
+      "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "google-nano-banana-2-1",
+      "titulo": "Nano Banana 2.1 GA",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-06",
+      "url": "https://releasebot.io/updates/google",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "microsoft-copilot-redesign-oct",
+      "titulo": "Copilot rediseñado: Home, Code, Autopilot",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-01",
+      "url": "https://m365copilotconnection.substack.com/p/copilots-biggest-october-2026-updates",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "microsoft-copilot-credits",
+      "titulo": "Copilot Credits / nuevo cobro",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-01",
+      "url": "https://changepilot.cloud/blog/october-2026-microsoft-365-updates-copilot-billing-home-more",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "microsoft-sharepoint-copilot-ga",
+      "titulo": "Copilot en SharePoint/OneDrive GA",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-01",
+      "url": "https://techcommunity.microsoft.com/blog/spblog/what%E2%80%99s-new-in-copilot-in-sharepoint-october-2026/4535423",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "mistral-large-4",
+      "titulo": "Mistral Large 4 preview",
+      "empresa": "Mistral",
+      "fecha_anuncio": "2026-10-06",
+      "url": "https://dev.to/alexmercedcoder/ai-weekly-mistral-large-4-and-the-decision-model-wave-38k4",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "meta-sierra-personal-agent-protocol",
+      "titulo": "Personal Agent Protocol (Meta + Sierra)",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-10-07",
+      "url": "https://techstartups.com/2026/10/07/top-tech-news-today-october-7-2026-anthropic-elevenlabs-google-meta-mistral-nvidia-spacex-more",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "hark-pro-app",
+      "titulo": "Hark Pro app de agente proactivo",
+      "empresa": "Startup",
+      "fecha_anuncio": "2026-10-06",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/ai-startup-hark-debuts-proactive-hark-pro-app-ahead-of-2027-hardware-launch",
+      "reportado_en": "informes/2026-10-08.md"
+    },
+    {
+      "id": "anthropic-genesis-commitment",
+      "titulo": "US$150M para la Genesis Mission",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-08",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "reportado_en": "informes/2026-10-08-1526.md"
+    }
   ]
 }
