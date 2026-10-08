@@ -1,6 +1,6 @@
 # 🛰️ Radar IA — {DÍA_SEMANA} {DD} de {MES} de {AAAA}
 
-> Informe {matutino | alerta} · Ventana cubierta: {desde} → {hasta} · Generado por Claude Code
+> Informe matutino · Ventana cubierta: {desde} → {hasta} · Generado por Claude Code
 
 ## 🔥 Lo más importante hoy
 

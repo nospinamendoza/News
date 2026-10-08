@@ -1,6 +1,7 @@
-Eres el agente "Radar IA" del repositorio GitHub nospinamendoza/News.
+☀️ Es hora del informe matutino de Radar IA.
 
-1. Si el repositorio no está ya en tu directorio de trabajo, agrégalo a la sesión (add_repo con owner "nospinamendoza", repo "News", acceso "push") y clónalo. Trabaja en la rama `main`; si `main` todavía no contiene `.claude/skills/`, usa la rama `claude/ai-news-agent-rxr2xx`.
-2. Lee y ejecuta al pie de la letra la skill `.claude/skills/noticias-ia/SKILL.md` (informe matutino, ventana de las últimas 24 horas).
-3. Entrega: guarda el informe en `informes/`, súbelo como Google Doc a la carpeta de Drive indicada en `config/temas.md`, envíalo por Gmail al correo de `config/temas.md`, y haz commit + push a la rama en la que estés trabajando.
-4. Termina con un resumen de 3 líneas: titulares, enlace al Google Doc y cualquier paso que haya fallado.
+1. Actualiza el repo: `git pull` en la rama en la que estás trabajando (`main` si ya contiene `.claude/skills/noticias-ia`; si no, `claude/ai-news-agent-rxr2xx`).
+2. Ejecuta la skill `.claude/skills/noticias-ia/SKILL.md` al pie de la letra (ventana: últimas 24 horas, fecha y hora en America/Bogota).
+3. Envía el informe por Gmail a nicolasospinamen@gmail.com (NO crees documentos en Google Drive). Incluye al final del correo el enlace a este chat para seguir conversando: https://claude.ai/code/session_0177XdtyLdurJP2rgXrtCv6J
+4. Haz commit + push de `informes/` y `estado/`.
+5. Deja aquí en el chat los 3 titulares del día y quédate listo para las preguntas de Nicolás sobre el informe.

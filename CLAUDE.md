@@ -6,14 +6,13 @@ fechas de lanzamiento, explicaciones simples, aplicaciones reales, ideas de nego
 
 ## Cómo está organizado
 
-- `config/temas.md` — qué vigilar, reglas de calidad, correo destino e IDs de Google Drive. **Fuente de verdad de la configuración.**
+- `config/temas.md` — qué vigilar, reglas de calidad, correo destino y enlace al chat. **Fuente de verdad de la configuración.**
 - `.claude/agents/radar-ia.md` — subagente investigador (busca y verifica noticias).
 - `.claude/skills/noticias-ia/` — skill `/noticias-ia`: informe completo matutino.
-- `.claude/skills/alerta-ia/` — skill `/alerta-ia`: chequeo proactivo de última hora.
 - `plantillas/informe.md` — formato del informe.
 - `informes/` — un archivo por informe (`AAAA-MM-DD.md`).
 - `estado/ultimas-noticias.json` — memoria de lo ya reportado, para no repetir.
-- `rutinas/` — prompts que usan las rutinas programadas en claude.ai/code.
+- `rutinas/` — prompt de la rutina matutina programada en claude.ai/code.
 
 ## Reglas
 
@@ -22,3 +21,4 @@ fechas de lanzamiento, explicaciones simples, aplicaciones reales, ideas de nego
 - Prefiere fuentes oficiales; marca "(sin confirmar)" lo que solo tenga fuentes secundarias.
 - Nunca inventes fechas, precios ni nombres de modelos.
 - Usa la zona horaria America/Bogota para fechas y horas.
+- Entrega solo por Gmail. No crees documentos en Google Drive.

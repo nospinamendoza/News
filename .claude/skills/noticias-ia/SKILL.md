@@ -1,6 +1,6 @@
 ---
 name: noticias-ia
-description: Genera el informe diario "Radar IA" con las últimas novedades de Claude, ChatGPT, Gemini, Copilot y otras IAs, explicaciones simples, aplicaciones reales e ideas de negocio, con fechas de lanzamiento y fuentes. Lo guarda en el repo, en Google Drive y lo envía por Gmail. Úsalo cuando el usuario pida el informe, las noticias de IA o el resumen de la mañana.
+description: Genera el informe diario "Radar IA" con las últimas novedades de Claude, ChatGPT, Gemini, Copilot y otras IAs, explicaciones simples, aplicaciones reales e ideas de negocio, con fechas de lanzamiento y fuentes. Lo guarda en el repo y lo envía por Gmail. Úsalo cuando el usuario pida el informe, las noticias de IA o el resumen de la mañana.
 ---
 
 # /noticias-ia — Informe matutino Radar IA
@@ -11,9 +11,9 @@ al final del informe y continúa con el siguiente.
 ## 1. Preparar
 
 - Obtén la fecha y hora actuales con `date` (zona `America/Bogota`): `TZ=America/Bogota date "+%Y-%m-%d %H:%M"`.
-- Lee `config/temas.md` (qué vigilar, reglas, IDs de Drive, correo destino).
+- Lee `config/temas.md` (qué vigilar, reglas, correo destino).
 - Lee `estado/ultimas-noticias.json` (lo ya reportado) y `plantillas/informe.md` (formato).
-- Ventana de tiempo por defecto: **últimas 48 horas**. Si el usuario indica otra, úsala.
+- Ventana de tiempo por defecto: **últimas 24 horas**. Si el usuario indica otra, úsala.
 
 ## 2. Investigar
 
@@ -44,17 +44,16 @@ Añade a `estado/ultimas-noticias.json` una entrada por noticia reportada
 
 ## 5. Entregar
 
-1. **Google Drive** — crea un Google Doc con el contenido del informe en la carpeta
-   `Informes` (ID en `config/temas.md`), título `Radar IA — AAAA-MM-DD`
-   (`mcp__Google_Drive__create_file`, `contentMimeType: text/markdown`).
-   **Quita los emojis** de la versión para Drive (el conversor los corrompe): cambia
-   `👥` por `Para:`, `🔗` por `Fuente:` y elimina los demás. Los acentos y `·`, `→` sí funcionan.
-2. **Gmail** — envía el informe al correo de `config/temas.md` con asunto
-   `🛰️ Radar IA — {DD} {mes}: {titular principal}`. Incluye el enlace al Google Doc.
-   Si no hay conector de Gmail, crea un borrador o indícalo en la respuesta.
-3. **Git** — si estás en el repositorio, haz commit de `informes/` y `estado/` con el mensaje
+1. **Gmail** — envía el informe en HTML (con su versión en texto plano) al correo de
+   `config/temas.md`, asunto `🛰️ Radar IA — {DD} {mes}: {titular principal}`.
+   Al final del correo incluye el enlace al chat del agente (en `config/temas.md`)
+   con el texto "¿Preguntas? Sigue la conversación aquí".
+   **No crees documentos en Google Drive.**
+2. **Git** — haz commit de `informes/` y `estado/` con el mensaje
    `Radar IA: informe AAAA-MM-DD` y push a la rama actual.
 
 ## 6. Responder
 
-Muestra al usuario los 3 titulares principales, el enlace al Google Doc y cualquier paso que haya fallado.
+Deja en el chat los 3 titulares principales y cualquier paso que haya fallado. Después
+quédate disponible: el usuario puede preguntar sobre el informe en este mismo chat
+(profundizar una noticia, explicar un feature, desarrollar una idea de negocio).

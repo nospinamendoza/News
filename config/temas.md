@@ -8,12 +8,10 @@ Edita este archivo para cambiar qué vigila el agente. No hace falta tocar nada 
 - Idioma de los informes: español (términos técnicos en inglés entre paréntesis cuando ayude)
 - Zona horaria: America/Bogota
 
-## Google Drive
+## Entrega
 
-- Carpeta del proyecto: `Claude Agentes / Agente Noticias IA`
-  - ID: `1ngeqjITnZCOBMQ0TZgqnNLq96IscJqCe`
-- Carpeta donde se guardan los informes diarios: `Claude Agentes / Agente Noticias IA / Informes`
-  - ID: `1kk0kgKZTfD7qgVKMnIjaAjVd-roJdezE`
+- Solo por Gmail, una vez al día (informe matutino, 6:53 a. m. hora Colombia). No se crean documentos en Drive.
+- Chat del agente (para seguir preguntando): https://claude.ai/code/session_0177XdtyLdurJP2rgXrtCv6J
 
 ## Empresas y productos a vigilar (prioridad alta)
 
@@ -43,7 +41,7 @@ Amazon (Nova, Alexa+), Perplexity, NVIDIA, Midjourney, Runway, ElevenLabs, Curso
 - Cada noticia DEBE llevar: fecha de anuncio, fecha de disponibilidad al público
   (o "aún no disponible" / "por fases"), a quién le llega (plan, país, plataforma) y enlace.
 - Preferir la fuente oficial. Si solo hay fuentes secundarias, marcar "(sin confirmar)".
-- Ventana de tiempo: informe matutino = últimas 24-48 h. Alerta proactiva = últimas 6 h.
+- Ventana de tiempo: últimas 24 h (puedes pedir otra en el chat, ej. "la última semana").
 - Nunca inventar fechas, precios ni nombres de modelos.
 
 ## Fuentes secundarias confiables
