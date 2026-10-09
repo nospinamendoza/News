@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T15:35:00-05:00",
+  "actualizado": "2026-10-09T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -175,7 +175,23 @@
       "empresa": "Google",
       "fecha_anuncio": "2026-10-08",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
-      "reportado_en": "chat 2026-10-08 (pregunta de Nicolás); avisar cuando salga de private preview"
+      "reportado_en": "chat 2026-10-08 (pregunta de Nicolás); avisar cuando salga de private preview; informes/2026-10-09.md"
+    },
+    {
+      "id": "google-gemini-industry-fs-legal",
+      "titulo": "Gemini agent para Finanzas y Legal (preview)",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-08",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "reportado_en": "informes/2026-10-09.md"
+    },
+    {
+      "id": "google-tpu-8i",
+      "titulo": "TPU 8i",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-08",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "reportado_en": "informes/2026-10-09.md"
     }
   ]
 }
