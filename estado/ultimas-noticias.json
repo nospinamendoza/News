@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T07:05:00-05:00",
+  "actualizado": "2026-10-10T07:00:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -95,7 +95,7 @@
       "empresa": "Google",
       "fecha_anuncio": "2026-10-03",
       "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
-      "reportado_en": "informes/2026-10-08.md"
+      "reportado_en": "informes/2026-10-08.md; informes/2026-10-10.md (vigente desde 9 oct)"
     },
     {
       "id": "google-nano-banana-2-1",
