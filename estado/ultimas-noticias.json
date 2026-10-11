@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T07:00:00-05:00",
+  "actualizado": "2026-10-11T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -135,7 +135,7 @@
       "empresa": "Mistral",
       "fecha_anuncio": "2026-10-06",
       "url": "https://dev.to/alexmercedcoder/ai-weekly-mistral-large-4-and-the-decision-model-wave-38k4",
-      "reportado_en": "informes/2026-10-08.md"
+      "reportado_en": "informes/2026-10-08.md; informes/2026-10-11.md (actualización)"
     },
     {
       "id": "meta-sierra-personal-agent-protocol",
@@ -167,7 +167,7 @@
       "empresa": "Google",
       "fecha_anuncio": "2026-09-30",
       "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
-      "reportado_en": "chat 2026-10-08 (pregunta de Nicolás); avisar cuando llegue al API / AI Ultra / app"
+      "reportado_en": "chat 2026-10-08 (pregunta de Nicolás); avisar cuando llegue al API / AI Ultra / app; informes/2026-10-11.md (actualización)"
     },
     {
       "id": "google-gemini-agent-gemini-at-work-2026",
