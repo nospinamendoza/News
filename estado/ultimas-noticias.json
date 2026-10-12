@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T07:05:00-05:00",
+  "actualizado": "2026-10-12T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -87,7 +87,7 @@
       "empresa": "Google",
       "fecha_anuncio": "2026-10-05",
       "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
-      "reportado_en": "informes/2026-10-08.md"
+      "reportado_en": "informes/2026-10-08.md; informes/2026-10-12.md (actualización)"
     },
     {
       "id": "google-gemini-free-limits",
@@ -135,7 +135,7 @@
       "empresa": "Mistral",
       "fecha_anuncio": "2026-10-06",
       "url": "https://dev.to/alexmercedcoder/ai-weekly-mistral-large-4-and-the-decision-model-wave-38k4",
-      "reportado_en": "informes/2026-10-08.md; informes/2026-10-11.md (actualización)"
+      "reportado_en": "informes/2026-10-08.md; informes/2026-10-11.md (actualización); informes/2026-10-12.md (actualización)"
     },
     {
       "id": "meta-sierra-personal-agent-protocol",
@@ -192,6 +192,22 @@
       "fecha_anuncio": "2026-10-08",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
       "reportado_en": "informes/2026-10-09.md"
+    },
+    {
+      "id": "salesforce-agentforce-winter27-ga",
+      "titulo": "Salesforce Agentforce Winter '27 GA (activación por defecto)",
+      "empresa": "Salesforce",
+      "fecha_anuncio": "2026-10-12",
+      "url": "https://www.salesforceben.com/salesforce-to-auto-enable-agentforce-in-winter-27-what-that-means-for-you/",
+      "reportado_en": "informes/2026-10-12.md"
+    },
+    {
+      "id": "techcrunch-disrupt-2026",
+      "titulo": "TechCrunch Disrupt 2026 (13-15 oct)",
+      "empresa": "Evento",
+      "fecha_anuncio": "2026-08-26",
+      "url": "https://techcrunch.com/2026/08/26/the-3-reasons-this-years-ai-centric-techcrunch-disrupt-is-a-must-for-founders/",
+      "reportado_en": "informes/2026-10-12.md"
     }
   ]
 }
