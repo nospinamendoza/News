@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T07:10:00-05:00",
+  "actualizado": "2026-10-14T07:10:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -216,6 +216,30 @@
       "fecha_anuncio": "2026-10-12",
       "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
       "reportado_en": "informes/2026-10-13.md"
+    },
+    {
+      "id": "google-gemini-4-argon-ga",
+      "titulo": "Gemini 4 Argon disponible (AI Pro/Ultra, API, Google Cloud)",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-13",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+      "reportado_en": "informes/2026-10-14.md"
+    },
+    {
+      "id": "anthropic-singapore-office-mou",
+      "titulo": "Anthropic oficina en Singapur + MOU",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-14",
+      "url": "https://www.anthropic.com/news",
+      "reportado_en": "informes/2026-10-14.md"
+    },
+    {
+      "id": "microsoft-maia-300",
+      "titulo": "Microsoft Maia 300",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-12",
+      "url": "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals",
+      "reportado_en": "informes/2026-10-14.md"
     }
   ]
 }
