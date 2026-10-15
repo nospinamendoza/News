@@ -1,0 +1,290 @@
+<title>Gemini 4 Argon para ventas</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: ficha de elemento químico como portada → 7 diferenciadores en tarjetas "qué es / en simple / para el cliente" → disponibilidad → línea de tiempo → objeciones → glosario */
+:root{
+  --bg:#f5f4f8; --surface:#ffffff; --ink:#1b1830; --muted:#5d5a72; --line:#dddae8;
+  --argon:#6b46c9; --argon-soft:#ece6fb; --glow:#b9a2f5; --ok:#1f7a55; --warn:#a45a12;
+  --f-display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --f-body:"IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --f-mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121020; --surface:#1c1930; --ink:#ece9f7; --muted:#a8a3c2; --line:#302c4a;
+  --argon:#a98cf2; --argon-soft:#2a2350; --glow:#7c5ad9; --ok:#5fd0a0; --warn:#f0a65a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121020; --surface:#1c1930; --ink:#ece9f7; --muted:#a8a3c2; --line:#302c4a;
+  --argon:#a98cf2; --argon-soft:#2a2350; --glow:#7c5ad9; --ok:#5fd0a0; --warn:#f0a65a; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.55}
+.wrap{max-width:1080px;margin:0 auto;padding-block:32px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:56px}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.1}
+h2{font-size:clamp(1.5rem,3.2vw,2.1rem);font-weight:800}
+h3{font-size:1.15rem;font-weight:700}
+p{margin:0}
+.eyebrow{font-family:var(--f-mono);font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--argon)}
+.mono{font-family:var(--f-mono)}
+.src{font-size:.78rem;color:var(--muted)}
+.tag{display:inline-block;font-family:var(--f-mono);font-size:.68rem;letter-spacing:.06em;text-transform:uppercase;padding:2px 8px;border-radius:99px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.tag.g{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 45%,transparent)}
+.tag.v{color:var(--ok);border-color:color-mix(in srgb,var(--ok) 45%,transparent)}
+
+/* Hero */
+.hero{display:grid;grid-template-columns:auto 1fr;gap:36px;align-items:center}
+.element{width:190px;aspect-ratio:1/1.12;max-width:100%;border:2px solid var(--ink);border-radius:6px;background:var(--surface);padding:14px 16px;display:flex;flex-direction:column;justify-content:space-between;position:relative;box-shadow:0 0 0 6px var(--argon-soft),0 0 48px 6px color-mix(in srgb,var(--glow) 55%,transparent)}
+.element .num{font-family:var(--f-mono);font-size:1rem}
+.element .sym{font-family:var(--f-display);font-weight:800;font-size:5.2rem;line-height:1;color:var(--argon)}
+.element .name{font-weight:600;font-size:1rem}
+.element .sub{font-family:var(--f-mono);font-size:.7rem;color:var(--muted)}
+.hero h1{font-size:clamp(2.3rem,6vw,4.2rem);font-weight:800;letter-spacing:-.01em}
+.hero .lead{font-size:1.15rem;color:var(--muted);max-width:60ch;margin-top:12px}
+.facts{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
+.fact{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:0}
+.fact b{display:block;font-family:var(--f-display);font-size:1.25rem}
+.fact span{font-size:.8rem;color:var(--muted)}
+
+/* Pitch */
+.pitch{background:var(--ink);color:var(--bg);border-radius:14px;padding:28px clamp(20px,4vw,40px);display:grid;gap:10px}
+.pitch .eyebrow{color:var(--glow)}
+.pitch p.q{font-family:var(--f-display);font-size:clamp(1.25rem,2.6vw,1.7rem);font-weight:700;line-height:1.3;max-width:58ch}
+
+/* Diferenciadores */
+.diffs{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px;margin-top:22px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:20px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.card .head{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+.big{font-family:var(--f-display);font-weight:800;font-size:2.1rem;line-height:1;color:var(--argon);font-variant-numeric:tabular-nums}
+.row{display:grid;grid-template-columns:92px 1fr;gap:10px;font-size:.93rem}
+.row dt{font-family:var(--f-mono);font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding-top:3px}
+.row dd{margin:0}
+dl{margin:0;display:grid;gap:8px}
+.ask{margin-top:auto;border-top:1px dashed var(--line);padding-top:10px;font-size:.88rem;color:var(--muted)}
+.ask b{color:var(--ink);font-weight:600}
+
+/* Disponibilidad */
+.tablewrap{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;min-width:620px;font-size:.93rem}
+th,td{text-align:left;padding:12px 16px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:500}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:600}
+
+/* Timeline */
+.timeline{list-style:none;padding:0;margin:22px 0 0;display:grid;grid-template-columns:repeat(4,1fr);gap:0;position:relative}
+.timeline:before{content:"";position:absolute;left:0;right:0;top:9px;height:2px;background:var(--line)}
+.timeline li{position:relative;padding:28px 14px 0 0;min-width:0}
+.timeline li:before{content:"";position:absolute;top:2px;left:0;width:16px;height:16px;border-radius:50%;background:var(--surface);border:3px solid var(--argon)}
+.timeline li.now:before{background:var(--argon);box-shadow:0 0 0 5px var(--argon-soft)}
+.timeline .d{font-family:var(--f-mono);font-size:.8rem;color:var(--argon)}
+.timeline .t{font-weight:600;margin-top:4px}
+.timeline .x{font-size:.88rem;color:var(--muted);margin-top:2px}
+
+/* Objeciones */
+.objs{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;margin-top:20px}
+.obj{border-left:3px solid var(--argon);padding:4px 0 4px 16px;display:grid;gap:6px;min-width:0}
+.obj .o{font-family:var(--f-display);font-weight:700;font-size:1.05rem}
+.obj p{font-size:.93rem;color:var(--muted)}
+
+/* Glosario */
+.gloss{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px 28px;margin-top:20px}
+.gloss div{min-width:0}
+.gloss dt{font-family:var(--f-mono);font-weight:500;color:var(--argon)}
+.gloss dd{margin:2px 0 0;font-size:.92rem}
+
+footer{border-top:1px solid var(--line);padding-top:20px;display:grid;gap:10px;font-size:.82rem;color:var(--muted)}
+footer a{color:var(--argon)}
+footer ul{margin:0;padding-left:18px;display:grid;gap:3px}
+
+@media (max-width:680px){
+  .hero{grid-template-columns:1fr;gap:24px}
+  .element{width:150px}
+  .element .sym{font-size:4rem}
+  .timeline{grid-template-columns:1fr;gap:18px}
+  .timeline:before{left:7px;right:auto;top:0;bottom:0;width:2px;height:auto}
+  .timeline li{padding:0 0 0 30px}
+  .row{grid-template-columns:1fr;gap:2px}
+}
+a:focus-visible{outline:2px solid var(--argon);outline-offset:2px}
+</style>
+
+<div class="wrap">
+
+  <header class="hero">
+    <div class="element" aria-label="Ficha estilo tabla periódica: Argon">
+      <div class="num">18</div>
+      <div class="sym">Ar</div>
+      <div><div class="name">Gemini 4 Argon</div><div class="sub">gemini-4-argon</div></div>
+    </div>
+    <div>
+      <div class="eyebrow">Guía rápida para la fuerza de ventas</div>
+      <h1>Gemini 4 Argon</h1>
+      <p class="lead">El modelo de IA más potente de Google hasta hoy. Piensa en tareas largas y difíciles, lee montañas de información de una sola vez y fue entrenado para encontrar y corregir fallas de seguridad en el software.</p>
+      <div class="facts">
+        <div class="fact"><b>30 sep 2026</b><span>Anuncio (acceso restringido)</span></div>
+        <div class="fact"><b>13 oct 2026</b><span>Disponible para clientes de pago</span></div>
+        <div class="fact"><b>US$2 / US$10</b><span>Por millón de tokens, precio de lanzamiento hasta 30 nov</span></div>
+      </div>
+    </div>
+  </header>
+
+  <section class="pitch" aria-label="Pitch de una frase">
+    <div class="eyebrow">El pitch en una frase</div>
+    <p class="q">"Argon es como sumar a su equipo un experto que se lee todo el expediente antes de opinar, trabaja horas en la misma tarea sin perder el hilo y revisa que su software no tenga puertas abiertas."</p>
+  </section>
+
+  <section aria-labelledby="dif">
+    <div class="eyebrow">Por qué vender Argon</div>
+    <h2 id="dif">Los 7 diferenciadores que importan al cliente</h2>
+    <div class="diffs">
+
+      <article class="card">
+        <div class="head"><h3>Lee muchísimo de una vez</h3><span class="tag v">Oficial</span></div>
+        <div class="big">1 millón</div>
+        <dl>
+          <div class="row"><dt>Qué es</dt><dd>Ventana de contexto de 1.048.576 tokens.</dd></div>
+          <div class="row"><dt>En simple</dt><dd>Es su "mesa de trabajo": cabe el equivalente a unas 1.500 páginas de texto, un contrato completo con anexos o todo el código de una aplicación.</dd></div>
+          <div class="row"><dt>Para el cliente</dt><dd>No hay que partir la información en pedazos. Analiza el expediente entero y responde con el panorama completo.</dd></div>
+        </dl>
+        <p class="ask"><b>Pregunta para abrir:</b> ¿Qué documento largo revisa hoy su equipo a mano cada mes?</p>
+      </article>
+
+      <article class="card">
+        <div class="head"><h3>Entrega trabajos largos completos</h3><span class="tag v">Oficial</span></div>
+        <div class="big">16×</div>
+        <dl>
+          <div class="row"><dt>Qué es</dt><dd>Salida de hasta 1.048.576 tokens con "long decode" (por defecto 65.536).</dd></div>
+          <div class="row"><dt>En simple</dt><dd>Antes la IA escribía por capítulos; ahora puede entregar el libro entero de una vez: un manual, un informe extenso o la migración completa de un sistema.</dd></div>
+          <div class="row"><dt>Para el cliente</dt><dd>Menos idas y vueltas, menos piezas sueltas que unir, entregables terminados.</dd></div>
+        </dl>
+        <p class="ask"><b>Pregunta para abrir:</b> ¿Qué entregable grande les toma semanas armar?</p>
+      </article>
+
+      <article class="card">
+        <div class="head"><h3>Especialista en ciberseguridad</h3><span class="tag v">Oficial</span></div>
+        <div class="big">3 pasos</div>
+        <dl>
+          <div class="row"><dt>Qué es</dt><dd>Entrenado para encontrar, validar y corregir vulnerabilidades críticas por su cuenta.</dd></div>
+          <div class="row"><dt>En simple</dt><dd>Como un cerrajero que revisa todas las puertas, prueba cuál se abre de verdad y cambia la cerradura. Google se lo dio primero a expertos en seguridad (programa Fairwind) antes de abrirlo a todos.</dd></div>
+          <div class="row"><dt>Para el cliente</dt><dd>Revisiones de seguridad más rápidas y baratas, antes de que un atacante encuentre la falla.</dd></div>
+        </dl>
+        <p class="ask"><b>Pregunta para abrir:</b> ¿Cada cuánto auditan la seguridad de sus aplicaciones?</p>
+      </article>
+
+      <article class="card">
+        <div class="head"><h3>Programa proyectos de largo aliento</h3><span class="tag g">Dato de Google</span></div>
+        <div class="big">77,9 %</div>
+        <dl>
+          <div class="row"><dt>Qué es</dt><dd>Puntaje en DeepSWE v1.1, prueba de tareas reales de software que toman muchos pasos.</dd></div>
+          <div class="row"><dt>En simple</dt><dd>No solo escribe un trozo de código: sigue un proyecto de principio a fin sin perderse, como un desarrollador senior.</dd></div>
+          <div class="row"><dt>Para el cliente</dt><dd>Equipos de tecnología que entregan más rápido y modernizan sistemas viejos con menos esfuerzo.</dd></div>
+        </dl>
+        <p class="ask"><b>Pregunta para abrir:</b> ¿Tienen sistemas antiguos que nadie quiere tocar?</p>
+      </article>
+
+      <article class="card">
+        <div class="head"><h3>Entiende videos largos</h3><span class="tag g">Dato de Google</span></div>
+        <div class="big">91,7 %</div>
+        <dl>
+          <div class="row"><dt>Qué es</dt><dd>Puntaje en LVBench, prueba de comprensión de video largo.</dd></div>
+          <div class="row"><dt>En simple</dt><dd>Puede "ver" una grabación extensa (una reunión, una capacitación, cámaras de una planta) y responder preguntas sobre lo que pasó.</dd></div>
+          <div class="row"><dt>Para el cliente</dt><dd>Convierte horas de video en resúmenes, hallazgos y acciones.</dd></div>
+        </dl>
+        <p class="ask"><b>Pregunta para abrir:</b> ¿Cuántas horas de video graban y nadie vuelve a ver?</p>
+      </article>
+
+      <article class="card">
+        <div class="head"><h3>Precio de entrada agresivo</h3><span class="tag v">Oficial</span></div>
+        <div class="big">−95 %</div>
+        <dl>
+          <div class="row"><dt>Qué es</dt><dd>US$2 por millón de tokens de entrada y US$10 de salida hasta el 30 de noviembre; 95 % de descuento en entrada en caché.</dd></div>
+          <div class="row"><dt>En simple</dt><dd>Un millón de tokens son unas 750.000 palabras. La "caché" es cuando la IA reutiliza un documento que ya leyó: esa relectura sale casi gratis.</dd></div>
+          <div class="row"><dt>Para el cliente</dt><dd>Momento ideal para un piloto: probar con casos reales a precio de lanzamiento antes de que cambie.</dd></div>
+        </dl>
+        <p class="ask"><b>Pregunta para abrir:</b> ¿Hacemos un piloto de 2 semanas antes del 30 de noviembre?</p>
+      </article>
+
+      <article class="card">
+        <div class="head"><h3>Listo para la empresa</h3><span class="tag v">Oficial</span></div>
+        <div class="big">EE. UU. · UE</div>
+        <dl>
+          <div class="row"><dt>Qué es</dt><dd>Disponible en Google Cloud y en la app Gemini Enterprise, con residencia de datos en EE. UU. y UE y control del administrador.</dd></div>
+          <div class="row"><dt>En simple</dt><dd>La empresa decide quién lo usa y en qué región se guardan sus datos. No es una herramienta suelta: vive dentro de la nube que ya administran.</dd></div>
+          <div class="row"><dt>Para el cliente</dt><dd>Cumplimiento y gobierno desde el día uno, sin montar nada nuevo.</dd></div>
+        </dl>
+        <p class="ask"><b>Pregunta para abrir:</b> ¿Ya tienen Gemini Enterprise o Google Cloud?</p>
+      </article>
+
+    </div>
+  </section>
+
+  <section aria-labelledby="disp">
+    <div class="eyebrow">Quién lo puede usar hoy</div>
+    <h2 id="disp">Dónde está disponible</h2>
+    <div class="tablewrap">
+      <table>
+        <thead><tr><th>Canal</th><th>Para quién</th><th>Nota para el vendedor</th></tr></thead>
+        <tbody>
+          <tr><td>App Gemini y AI Mode en Búsqueda</td><td>Suscriptores Google AI Pro y Ultra</td><td>No incluido en AI Plus ni en la versión gratis.</td></tr>
+          <tr><td>Gemini Enterprise (web y móvil)</td><td>Clientes empresariales</td><td>El administrador lo activa; desde el 27 oct viene activado por defecto. No está en Workflow Builder.</td></tr>
+          <tr><td>Google Cloud / Agent Platform</td><td>Empresas que construyen sus propios agentes</td><td>Pago por uso; regiones global, EE. UU. y UE.</td></tr>
+          <tr><td>API y Google AI Studio</td><td>Desarrolladores con plan de pago</td><td>ID del modelo: <span class="mono">gemini-4-argon</span>. No está en el nivel gratuito.</td></tr>
+          <tr><td>Google Antigravity</td><td>Usuarios Ultra y licencias empresariales</td><td>Herramienta de programación con agentes; activo por defecto con licencia.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section aria-labelledby="time">
+    <div class="eyebrow">Fechas clave</div>
+    <h2 id="time">Línea de tiempo</h2>
+    <ol class="timeline">
+      <li><div class="d">30 sep 2026</div><div class="t">Anuncio</div><div class="x">Solo para expertos en ciberseguridad (Fairwind).</div></li>
+      <li class="now"><div class="d">13 oct 2026</div><div class="t">Apertura</div><div class="x">App, API, Google Cloud y Gemini Enterprise.</div></li>
+      <li><div class="d">27 oct 2026</div><div class="t">Activado por defecto</div><div class="x">En la app Gemini Enterprise.</div></li>
+      <li><div class="d">30 nov 2026</div><div class="t">Fin precio de lanzamiento</div><div class="x">Después el precio sube (monto aún sin confirmar).</div></li>
+    </ol>
+  </section>
+
+  <section aria-labelledby="obj">
+    <div class="eyebrow">Para la conversación</div>
+    <h2 id="obj">Cómo responder las objeciones más comunes</h2>
+    <div class="objs">
+      <div class="obj"><div class="o">"¿Es mejor que Claude o GPT-6?"</div><p>Google reporta que lidera 13 de sus 19 pruebas publicadas, pero son cifras de la propia empresa. En índices independientes está en el mismo grupo de punta que sus rivales. La respuesta honesta: depende de la tarea, y por eso proponemos un piloto con sus casos reales.</p></div>
+      <div class="obj"><div class="o">"¿Y si sale muy caro?"</div><p>Hasta el 30 de noviembre tiene precio de lanzamiento, y la caché abarata las tareas repetitivas un 95 %. En Gemini Enterprise el administrador controla quién lo usa.</p></div>
+      <div class="obj"><div class="o">"¿Qué pasa con nuestros datos?"</div><p>Corre dentro de Google Cloud y Gemini Enterprise, con residencia de datos en EE. UU. o UE y los permisos que la empresa ya tiene configurados.</p></div>
+      <div class="obj"><div class="o">"¿Por qué no lo tenemos en el plan básico?"</div><p>Argon es el modelo premium: está en AI Pro, Ultra, Gemini Enterprise y la nube. Los planes de entrada usan modelos más ligeros y rápidos.</p></div>
+    </div>
+  </section>
+
+  <section aria-labelledby="glo">
+    <div class="eyebrow">Sin tecnicismos</div>
+    <h2 id="glo">Glosario para el equipo comercial</h2>
+    <dl class="gloss">
+      <div><dt>Token</dt><dd>Un pedacito de palabra. Un millón de tokens son unas 750.000 palabras. Es la unidad con la que se cobra la IA.</dd></div>
+      <div><dt>Ventana de contexto</dt><dd>Cuánta información puede tener la IA "sobre la mesa" al mismo tiempo.</dd></div>
+      <div><dt>Caché</dt><dd>Memoria de lo que ya leyó. Si se repite el mismo documento, no lo vuelve a cobrar completo.</dd></div>
+      <div><dt>API</dt><dd>La "conexión" para que los sistemas de la empresa usen la IA sin entrar a una pantalla de chat.</dd></div>
+      <div><dt>Benchmark</dt><dd>Un examen estandarizado para comparar modelos de IA. Ojo si lo publica el mismo fabricante.</dd></div>
+      <div><dt>Vulnerabilidad</dt><dd>Una falla en un programa por donde un atacante podría entrar.</dd></div>
+      <div><dt>Residencia de datos</dt><dd>La región del mundo donde se guarda y procesa la información de la empresa.</dd></div>
+      <div><dt>Modo de razonamiento alto</dt><dd>Cuando la IA "piensa más" antes de responder. Los mejores puntajes publicados usan este modo.</dd></div>
+    </dl>
+  </section>
+
+  <footer>
+    <p>Material de apoyo no oficial preparado por Radar IA con información pública al 15 de octubre de 2026. No es material de Google. Las cifras marcadas "Dato de Google" son reportadas por la empresa y no han sido verificadas de forma independiente.</p>
+    <ul>
+      <li><a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/">Google: Gemini 4 Argon is now available in the Gemini app</a></li>
+      <li><a href="https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud">Google Cloud: Gemini 4 Argon available on Google Cloud</a></li>
+      <li><a href="https://ai.google.dev/gemini-api/docs/models/gemini-4-argon">Gemini API: ficha técnica de Gemini 4 Argon</a></li>
+      <li><a href="https://docs.cloud.google.com/gemini/enterprise/docs/release-notes">Notas de versión de Gemini Enterprise</a></li>
+      <li><a href="https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html">CNBC: anuncio del 30 de septiembre</a></li>
+      <li><a href="https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token">VentureBeat: precio de lanzamiento</a></li>
+      <li><a href="https://www.techtimes.com/articles/329026/20261015/gemini-4-argon-rolls-out-benchmark-scores-reflect-high-mode-not-subscriber-default.htm">TechTimes: los puntajes reflejan el modo alto</a></li>
+    </ul>
+  </footer>
+
+</div>
