@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T07:10:00-05:00",
+  "actualizado": "2026-10-15T07:10:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -230,8 +230,8 @@
       "titulo": "Anthropic oficina en Singapur + MOU",
       "empresa": "Anthropic",
       "fecha_anuncio": "2026-10-14",
-      "url": "https://www.anthropic.com/news",
-      "reportado_en": "informes/2026-10-14.md"
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "reportado_en": "informes/2026-10-14.md; informes/2026-10-15.md (detalles)"
     },
     {
       "id": "microsoft-maia-300",
@@ -240,6 +240,54 @@
       "fecha_anuncio": "2026-10-12",
       "url": "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals",
       "reportado_en": "informes/2026-10-14.md"
+    },
+    {
+      "id": "google-argon-gemini-enterprise",
+      "titulo": "Argon en app Gemini Enterprise (default on 27 oct)",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-13",
+      "url": "https://docs.cloud.google.com/gemini/enterprise/docs/release-notes",
+      "reportado_en": "informes/2026-10-15.md"
+    },
+    {
+      "id": "character-ai-bankruptcy",
+      "titulo": "Character.AI en quiebra; Disney oferta base US$20M",
+      "empresa": "Startup",
+      "fecha_anuncio": "2026-10-13",
+      "url": "https://cbsnews.com/news/character-ai-files-bankruptcy-disney-license/",
+      "reportado_en": "informes/2026-10-15.md"
+    },
+    {
+      "id": "anthropic-midterms-2026",
+      "titulo": "Anthropic: Preparing for the 2026 US midterms",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-14",
+      "url": "https://www.anthropic.com/news",
+      "reportado_en": "informes/2026-10-15.md"
+    },
+    {
+      "id": "xai-unified-subscription",
+      "titulo": "xAI une Grok, Cursor y X Premium",
+      "empresa": "xAI",
+      "fecha_anuncio": "2026-10-13",
+      "url": "https://marketingmind.in/elon-musks-xai-unifies-grok-cursor-and-x-premium-into-one-subscription-plan/",
+      "reportado_en": "informes/2026-10-15.md"
+    },
+    {
+      "id": "deepseek-funding-12b",
+      "titulo": "DeepSeek ronda ~US$12.000M",
+      "empresa": "DeepSeek",
+      "fecha_anuncio": "2026-10-06",
+      "url": "https://technode.com/2026/10/08/deepseek-reportedly-nears-12-billion-funding-round-backed-by-tencent-and-catl/",
+      "reportado_en": "informes/2026-10-15.md"
+    },
+    {
+      "id": "tc-disrupt-battlefield-finalists",
+      "titulo": "Finalistas Startup Battlefield 2026",
+      "empresa": "Evento",
+      "fecha_anuncio": "2026-10-14",
+      "url": "https://daily.dev/posts/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026-fjsynjvrb",
+      "reportado_en": "informes/2026-10-15.md"
     }
   ]
 }
