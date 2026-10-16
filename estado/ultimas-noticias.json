@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T07:10:00-05:00",
+  "actualizado": "2026-10-16T07:10:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -288,6 +288,38 @@
       "fecha_anuncio": "2026-10-14",
       "url": "https://daily.dev/posts/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026-fjsynjvrb",
       "reportado_en": "informes/2026-10-15.md"
+    },
+    {
+      "id": "tc-disrupt-battlefield-winner",
+      "titulo": "Intero Biosystems gana Startup Battlefield",
+      "empresa": "Evento",
+      "fecha_anuncio": "2026-10-15",
+      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+      "reportado_en": "informes/2026-10-16.md"
+    },
+    {
+      "id": "apate-ai-scam-agents",
+      "titulo": "Apate.ai agentes anti-estafa",
+      "empresa": "Startup",
+      "fecha_anuncio": "2026-10-14",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "reportado_en": "informes/2026-10-16.md"
+    },
+    {
+      "id": "anthropic-independent-evaluators-update",
+      "titulo": "Anthropic: An update on independent evaluators",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-15",
+      "url": "https://www.anthropic.com/news",
+      "reportado_en": "informes/2026-10-16.md"
+    },
+    {
+      "id": "microsoft-onedrive-copilot-event-2026",
+      "titulo": "Evento OneDrive + Copilot 20 oct",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-15",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/save-the-date-join-us-october-20-for-the-onedrive-copilot/ba-p/4556814",
+      "reportado_en": "informes/2026-10-16.md"
     }
   ]
 }
