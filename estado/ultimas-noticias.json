@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T07:10:00-05:00",
+  "actualizado": "2026-10-17T07:10:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -310,8 +310,8 @@
       "titulo": "Anthropic: An update on independent evaluators",
       "empresa": "Anthropic",
       "fecha_anuncio": "2026-10-15",
-      "url": "https://www.anthropic.com/news",
-      "reportado_en": "informes/2026-10-16.md"
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "reportado_en": "informes/2026-10-16.md; informes/2026-10-17.md (detalles)"
     },
     {
       "id": "microsoft-onedrive-copilot-event-2026",
@@ -320,6 +320,38 @@
       "fecha_anuncio": "2026-10-15",
       "url": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/save-the-date-join-us-october-20-for-the-onedrive-copilot/ba-p/4556814",
       "reportado_en": "informes/2026-10-16.md"
+    },
+    {
+      "id": "openai-chatgpt-slides",
+      "titulo": "ChatGPT Slides",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-16",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "reportado_en": "informes/2026-10-17.md"
+    },
+    {
+      "id": "reflection-beam-open-weights",
+      "titulo": "Reflection AI Beam pesos Apache 2.0",
+      "empresa": "Startup",
+      "fecha_anuncio": "2026-10-16",
+      "url": "https://reflection.ai/blog/beam-is-available",
+      "reportado_en": "informes/2026-10-17.md"
+    },
+    {
+      "id": "openai-8-states-lawsuit",
+      "titulo": "8 estados demandan a OpenAI",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-14",
+      "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+      "reportado_en": "informes/2026-10-17.md"
+    },
+    {
+      "id": "xai-grok-voice-3",
+      "titulo": "Grok Voice 3.0",
+      "empresa": "xAI",
+      "fecha_anuncio": "2026-10-14",
+      "url": "https://www.unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents/",
+      "reportado_en": "informes/2026-10-17.md"
     }
   ]
 }
