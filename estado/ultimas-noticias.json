@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T07:10:00-05:00",
+  "actualizado": "2026-10-18T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -352,6 +352,30 @@
       "fecha_anuncio": "2026-10-14",
       "url": "https://www.unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents/",
       "reportado_en": "informes/2026-10-17.md"
+    },
+    {
+      "id": "deepseek-v4-1-flash-1017",
+      "titulo": "DeepSeek V4.1-Flash-1017 pesos abiertos",
+      "empresa": "DeepSeek",
+      "fecha_anuncio": "2026-10-17",
+      "url": "https://api-docs.deepseek.com/news/news261017/",
+      "reportado_en": "informes/2026-10-18.md"
+    },
+    {
+      "id": "meta-muse-spark-open",
+      "titulo": "Meta Muse Spark Open",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-10-15",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "reportado_en": "informes/2026-10-18.md"
+    },
+    {
+      "id": "openai-gpt-live-1-1",
+      "titulo": "GPT-Live-1.1 voz ChatGPT",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-15",
+      "url": "https://www.notebookcheck.net/ChatGPT-Voice-GPT-Live-1-1-brings-new-voices-for-six-languages.1425810.0.html",
+      "reportado_en": "informes/2026-10-18.md"
     }
   ]
 }
