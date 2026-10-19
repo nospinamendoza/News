@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T07:05:00-05:00",
+  "actualizado": "2026-10-19T06:58:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -160,22 +160,6 @@
       "fecha_anuncio": "2026-10-08",
       "url": "https://www.anthropic.com/news/genesis-mission-commitment",
       "reportado_en": "informes/2026-10-08-1526.md"
-    },
-    {
-      "id": "google-gemini-4-argon",
-      "titulo": "Gemini 4 Argon (acceso restringido, Fairwind)",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-09-30",
-      "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
-      "reportado_en": "chat 2026-10-08 (pregunta de Nicolás); avisar cuando llegue al API / AI Ultra / app; informes/2026-10-11.md (actualización)"
-    },
-    {
-      "id": "google-gemini-agent-gemini-at-work-2026",
-      "titulo": "Gemini agent (agente universal) en Gemini at Work 2026",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-10-08",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
-      "reportado_en": "chat 2026-10-08 (pregunta de Nicolás); avisar cuando salga de private preview; informes/2026-10-09.md"
     },
     {
       "id": "google-gemini-industry-fs-legal",
@@ -376,6 +360,78 @@
       "fecha_anuncio": "2026-10-15",
       "url": "https://www.notebookcheck.net/ChatGPT-Voice-GPT-Live-1-1-brings-new-voices-for-six-languages.1425810.0.html",
       "reportado_en": "informes/2026-10-18.md"
+    },
+    {
+      "id": "anthropic-public-benefit-fund",
+      "titulo": "Anthropic Public Benefit Fund (5% acciones)",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-18",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "reportado_en": "informes/2026-10-19.md"
+    },
+    {
+      "id": "sites-block-ai-agents",
+      "titulo": "Amazon, bancos y Delta bloquean agentes de IA",
+      "empresa": "Varias",
+      "fecha_anuncio": "2026-10-17",
+      "url": "https://www.notebookcheck.net/US-banks-and-Amazon-are-blocking-AI-agents-like-Meta-s-Muse.1427833.0.html",
+      "reportado_en": "informes/2026-10-19.md"
+    },
+    {
+      "id": "anthropic-blackstone-financing",
+      "titulo": "Anthropic y Blackstone deuda para chips",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-16",
+      "url": "https://money.usnews.com/investing/news/articles/2026-10-16/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal-ft-reports",
+      "reportado_en": "informes/2026-10-19.md"
+    },
+    {
+      "id": "anthropic-agent-negotiation-lawyers",
+      "titulo": "Anthropic abogados para agentes negociadores y borrador de ley",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-17",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/",
+      "reportado_en": "informes/2026-10-19.md"
+    },
+    {
+      "id": "microsoft-nscale-exit",
+      "titulo": "Microsoft deja centro de datos Nscale UK",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-18",
+      "url": "https://capacityglobal.com/news/microsofts-nscale-exit-a-3bn-ipo-meets-a-uk-grid-problem/",
+      "reportado_en": "informes/2026-10-19.md"
+    },
+    {
+      "id": "meta-commercial-terms-scraping",
+      "titulo": "Términos comerciales de Meta y rastreo",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-10-30",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "reportado_en": "informes/2026-10-19.md"
+    },
+    {
+      "id": "openai-gpt6-pro-parallel-agents",
+      "titulo": "GPT-6 Pro agentes en paralelo y Codex",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-16",
+      "url": "https://releasebot.io/updates/openai/chatgpt",
+      "reportado_en": "informes/2026-10-19.md"
+    },
+    {
+      "id": "github-copilot-autofix-ga",
+      "titulo": "GitHub Copilot autofix GA y retiro de modelos 16 nov",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-15",
+      "url": "https://github.blog/changelog/label/copilot/",
+      "reportado_en": "informes/2026-10-19.md"
+    },
+    {
+      "id": "agntcon-mcpcon-2026",
+      "titulo": "AGNTCon + MCPCon 22-23 oct",
+      "empresa": "Linux Foundation",
+      "fecha_anuncio": "2026-10-22",
+      "url": "https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-global-2026-events-program-anchored-by-agntcon-mcpcon-north-america-and-europe",
+      "reportado_en": "informes/2026-10-19.md"
     }
   ]
 }
