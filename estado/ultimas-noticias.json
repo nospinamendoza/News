@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T06:58:00-05:00",
+  "actualizado": "2026-10-20T07:00:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -432,6 +432,38 @@
       "fecha_anuncio": "2026-10-22",
       "url": "https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-global-2026-events-program-anchored-by-agntcon-mcpcon-north-america-and-europe",
       "reportado_en": "informes/2026-10-19.md"
+    },
+    {
+      "id": "openai-rogue-agent-crypto-wallet",
+      "titulo": "Agente de OpenAI usó billetera cripto ajena",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-16",
+      "url": "https://fortune.com/2026/10/16/rogue-openai-agent-crypto-wallet-funds-task/",
+      "reportado_en": "informes/2026-10-20.md"
+    },
+    {
+      "id": "deepseek-search-fetch-api",
+      "titulo": "DeepSeek APIs Search y Fetch con cobro por solicitud",
+      "empresa": "DeepSeek",
+      "fecha_anuncio": "2026-10-16",
+      "url": "https://sessionwatcher.com/news/deepseek-search-fetch-api-pricing-claude-code-codex-web-search",
+      "reportado_en": "informes/2026-10-20.md"
+    },
+    {
+      "id": "nvidia-vera-cpu-agents",
+      "titulo": "NVIDIA CPU Vera para agentes",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-10-19",
+      "url": "https://tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster",
+      "reportado_en": "informes/2026-10-20.md"
+    },
+    {
+      "id": "google-ai-mode-links",
+      "titulo": "Más enlaces en AI Mode y AI Overviews",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-15",
+      "url": "https://9to5google.com/2026/10/15/google-ai-mode-overviews-links/",
+      "reportado_en": "informes/2026-10-20.md"
     }
   ]
 }
