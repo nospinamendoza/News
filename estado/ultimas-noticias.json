@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T07:00:00-05:00",
+  "actualizado": "2026-10-21T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -464,6 +464,78 @@
       "fecha_anuncio": "2026-10-15",
       "url": "https://9to5google.com/2026/10/15/google-ai-mode-overviews-links/",
       "reportado_en": "informes/2026-10-20.md"
+    },
+    {
+      "id": "microsoft-onedrive-copilot-announcements-1020",
+      "titulo": "Evento OneDrive + Copilot: Hero Links, Copilot multiarchivo, fotos IA",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-20",
+      "url": "https://techcommunity.microsoft.com/blog/onedriveblog/onedrive-just-got-a-major-upgrade-new-copilot-capabilities-simpler-sharing-and-s/4565995",
+      "reportado_en": "informes/2026-10-21.md"
+    },
+    {
+      "id": "openai-orchestra-bio",
+      "titulo": "OpenAI compra Orchestra Bio",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-20",
+      "url": "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development",
+      "reportado_en": "informes/2026-10-21.md"
+    },
+    {
+      "id": "microsoft-e7-agent-risk",
+      "titulo": "Controles de riesgo para agentes en M365 E7",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-19",
+      "url": "https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/",
+      "reportado_en": "informes/2026-10-21.md"
+    },
+    {
+      "id": "reuters-ai-hacker-100-sites",
+      "titulo": "Hacker con agentes de IA vulnera 100+ sitios",
+      "empresa": "Varias",
+      "fecha_anuncio": "2026-10-19",
+      "url": "https://ca.finance.yahoo.com/news/exclusive-one-hacker-used-ai-100625294.html",
+      "reportado_en": "informes/2026-10-21.md"
+    },
+    {
+      "id": "google-gemini-government-services",
+      "titulo": "Gemini for Government Services",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-20",
+      "url": "https://www.googlecloudpresscorner.com/2026-10-20-Google-Public-Sector-Launches-Gemini-for-Government-Services",
+      "reportado_en": "informes/2026-10-21.md"
+    },
+    {
+      "id": "notion-agents-24h-auto",
+      "titulo": "Notion agentes de 24 h y modo Auto",
+      "empresa": "Notion",
+      "fecha_anuncio": "2026-10-19",
+      "url": "https://www.notion.com/releases/2026-10-19",
+      "reportado_en": "informes/2026-10-21.md"
+    },
+    {
+      "id": "meta-prometheus",
+      "titulo": "Meta Prometheus supercluster",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-10-19",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+      "reportado_en": "informes/2026-10-21.md"
+    },
+    {
+      "id": "anthropic-nscale-45b-talks",
+      "titulo": "Anthropic y Nscale negocian US$45.000M",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-20",
+      "url": "https://qz.com/nscale-anthropic-second-45-billion-computing-deal-102026",
+      "reportado_en": "informes/2026-10-21.md"
+    },
+    {
+      "id": "openai-lehane-anthropic-bill",
+      "titulo": "OpenAI responde al borrador de ley de Anthropic",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-19",
+      "url": "https://fourweekmba.com/ai-openai-answers-anthropics-leaked-ai-bill-no-one-company",
+      "reportado_en": "informes/2026-10-21.md"
     }
   ]
 }
