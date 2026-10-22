@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T07:05:00-05:00",
+  "actualizado": "2026-10-22T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -536,6 +536,54 @@
       "fecha_anuncio": "2026-10-19",
       "url": "https://fourweekmba.com/ai-openai-answers-anthropics-leaked-ai-bill-no-one-company",
       "reportado_en": "informes/2026-10-21.md"
+    },
+    {
+      "id": "anthropic-claude-duet",
+      "titulo": "Claude Duet, agente proactivo (vista previa)",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-21",
+      "url": "https://claude.com/resources/articles/claude-duet",
+      "reportado_en": "informes/2026-10-22.md"
+    },
+    {
+      "id": "anthropic-api-2026-10-21-security-beta",
+      "titulo": "Nueva versión API y Claude Security beta",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-21",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
+      "reportado_en": "informes/2026-10-22.md"
+    },
+    {
+      "id": "anthropic-ltbt-stubbs",
+      "titulo": "Christopher Stubbs se une al Long-Term Benefit Trust",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-21",
+      "url": "https://www.anthropic.com/news",
+      "reportado_en": "informes/2026-10-22.md"
+    },
+    {
+      "id": "google-docs-live-mobile",
+      "titulo": "Docs Live en móvil y mejoras en Gemini Notebook",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-21",
+      "url": "https://workspaceupdates.googleblog.com/",
+      "reportado_en": "informes/2026-10-22.md"
+    },
+    {
+      "id": "recursive-flint",
+      "titulo": "Recursive lanza Flint",
+      "empresa": "Recursive",
+      "fecha_anuncio": "2026-10-21",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "reportado_en": "informes/2026-10-22.md"
+    },
+    {
+      "id": "legora-funding-oct",
+      "titulo": "Legora ronda US$550M",
+      "empresa": "Legora",
+      "fecha_anuncio": "2026-10-21",
+      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "reportado_en": "informes/2026-10-22.md"
     }
   ]
 }
