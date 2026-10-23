@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T07:05:00-05:00",
+  "actualizado": "2026-10-23T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -584,6 +584,46 @@
       "fecha_anuncio": "2026-10-21",
       "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
       "reportado_en": "informes/2026-10-22.md"
+    },
+    {
+      "id": "aaif-four-new-projects",
+      "titulo": "AAIF suma Agent Skills, Open Responses, OpenEnv y OpenSandbox",
+      "empresa": "Linux Foundation",
+      "fecha_anuncio": "2026-10-22",
+      "url": "https://aaif.io/news/agentic-ai-foundation-announces-four-new-projects",
+      "reportado_en": "informes/2026-10-23.md"
+    },
+    {
+      "id": "google-agent-compute-engine",
+      "titulo": "Google Agent Compute Engine y gobernanza de agentes",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-22",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance",
+      "reportado_en": "informes/2026-10-23.md"
+    },
+    {
+      "id": "google-meet-translation-63",
+      "titulo": "Meet traduce voz en 63 idiomas; Vault exporta Gemini",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-22",
+      "url": "https://workspaceupdates.googleblog.com/",
+      "reportado_en": "informes/2026-10-23.md"
+    },
+    {
+      "id": "openai-30b-raise",
+      "titulo": "OpenAI negocia US$30.000M a US$1,25 billones",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-22",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "reportado_en": "informes/2026-10-23.md"
+    },
+    {
+      "id": "deepseek-15b-us-federal-ban",
+      "titulo": "DeepSeek US$15.000M y retiro de agencias federales EE. UU.",
+      "empresa": "DeepSeek",
+      "fecha_anuncio": "2026-10-22",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "reportado_en": "informes/2026-10-23.md"
     }
   ]
 }
