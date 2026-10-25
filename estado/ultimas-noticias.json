@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T07:05:00-05:00",
+  "actualizado": "2026-10-25T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -664,6 +664,46 @@
       "fecha_anuncio": "2026-10-20",
       "url": "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/",
       "reportado_en": "informes/2026-10-24.md"
+    },
+    {
+      "id": "anthropic-mythos5-ukaisi-incident",
+      "titulo": "Informe Claude Mythos 5 en prueba del UK AISI",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-23",
+      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "reportado_en": "informes/2026-10-25.md"
+    },
+    {
+      "id": "grok-gpt-political-picks-study",
+      "titulo": "Estudio: Grok elige republicanos, GPT demócratas",
+      "empresa": "xAI/OpenAI",
+      "fecha_anuncio": "2026-10-24",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "reportado_en": "informes/2026-10-25.md"
+    },
+    {
+      "id": "reservoir-sues-anthropic-suno",
+      "titulo": "Reservoir demanda a Anthropic y Suno",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-21",
+      "url": "https://www.digitalmusicnews.com/2026/10/22/reservoir-media-suno-anthropic-lawsuit/",
+      "reportado_en": "informes/2026-10-25.md"
+    },
+    {
+      "id": "deepseek-minimax-overseas-approval",
+      "titulo": "China autoriza DeepSeek y MiniMax en el extranjero",
+      "empresa": "DeepSeek",
+      "fecha_anuncio": "2026-10-22",
+      "url": "https://money.usnews.com/investing/news/articles/2026-10-23/chinas-deepseek-minimax-win-approval-for-ai-global-use-state-media-affiliated-entity-says",
+      "reportado_en": "informes/2026-10-25.md"
+    },
+    {
+      "id": "bigtech-earnings-oct-28-29",
+      "titulo": "Resultados Alphabet, Microsoft (28 oct) y Amazon (29 oct)",
+      "empresa": "Varias",
+      "fecha_anuncio": "2026-10-28",
+      "url": "https://www.forbes.com/sites/bill_stone/2026/10/25/alphabet-microsoft-and-amazon-lead-busiest-week-of-earnings-season/",
+      "reportado_en": "informes/2026-10-25.md"
     }
   ]
 }
