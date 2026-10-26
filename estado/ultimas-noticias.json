@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T07:05:00-05:00",
+  "actualizado": "2026-10-26T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -704,6 +704,46 @@
       "fecha_anuncio": "2026-10-28",
       "url": "https://www.forbes.com/sites/bill_stone/2026/10/25/alphabet-microsoft-and-amazon-lead-busiest-week-of-earnings-season/",
       "reportado_en": "informes/2026-10-25.md"
+    },
+    {
+      "id": "anthropic-unified-claude-enterprise",
+      "titulo": "Claude Enterprise unifica Chat y Cowork",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-23",
+      "url": "https://claude.com/resources/articles/unified-claude-enterprise",
+      "reportado_en": "informes/2026-10-26.md"
+    },
+    {
+      "id": "spacex-40b-debt-gpus",
+      "titulo": "SpaceX US$40.000M deuda para GPUs",
+      "empresa": "xAI",
+      "fecha_anuncio": "2026-10-25",
+      "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "reportado_en": "informes/2026-10-26.md"
+    },
+    {
+      "id": "openai-models-google-cloud",
+      "titulo": "Modelos de OpenAI en Google Cloud Model Garden",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-21",
+      "url": "https://thenextweb.com/news/openai-models-codex-google-cloud",
+      "reportado_en": "informes/2026-10-26.md"
+    },
+    {
+      "id": "google-privacy-personal-intelligence-ads",
+      "titulo": "Política de privacidad Google: IA personal y anuncios",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-16",
+      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "reportado_en": "informes/2026-10-26.md"
+    },
+    {
+      "id": "moonshot-kimi-k3-1-pro",
+      "titulo": "Moonshot Kimi K3.1 Pro",
+      "empresa": "Moonshot",
+      "fecha_anuncio": "2026-10-23",
+      "url": "https://www.tekedia.com/chinas-moonshot-ai-restricts-kimi-k3-1-pros-cyber-capabilities-ahead-of-open-weight-release/",
+      "reportado_en": "informes/2026-10-26.md"
     }
   ]
 }
