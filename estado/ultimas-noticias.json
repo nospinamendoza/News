@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T07:05:00-05:00",
+  "actualizado": "2026-10-27T07:10:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -744,6 +744,46 @@
       "fecha_anuncio": "2026-10-23",
       "url": "https://www.tekedia.com/chinas-moonshot-ai-restricts-kimi-k3-1-pros-cyber-capabilities-ahead-of-open-weight-release/",
       "reportado_en": "informes/2026-10-26.md"
+    },
+    {
+      "id": "openai-gpt-6-1-terra",
+      "titulo": "OpenAI GPT-6.1 Terra",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-26",
+      "url": "https://x.com/OpenAI/status/2114780711664398349",
+      "reportado_en": "informes/2026-10-27.md"
+    },
+    {
+      "id": "anthropic-ipo-filing-disclosures",
+      "titulo": "Documento IPO de Anthropic: pausa de entrenamiento e incidentes",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-26",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-discloses-monthlong-training-pause-ai-security-breaches-in-ipo-filing-4973293",
+      "reportado_en": "informes/2026-10-27.md"
+    },
+    {
+      "id": "anthropic-cathedral-red-team",
+      "titulo": "Cathedral entra a sistemas internos de Anthropic (prueba autorizada)",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-26",
+      "url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
+      "reportado_en": "informes/2026-10-27.md"
+    },
+    {
+      "id": "nvidia-meta-3b-muse",
+      "titulo": "NVIDIA invierte US$3.000M en Meta, alianza Muse",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-10-27",
+      "url": "https://www.axios.com/2026/10/27/nvidia-meta-muse-investment",
+      "reportado_en": "informes/2026-10-27.md"
+    },
+    {
+      "id": "openai-pro-codex-limits",
+      "titulo": "Límites de Codex en ChatGPT Pro desde 30 oct",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-26",
+      "url": "https://x.com/i/trending/2114596470556917945",
+      "reportado_en": "informes/2026-10-27.md"
     }
   ]
 }
