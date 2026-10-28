@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T07:10:00-05:00",
+  "actualizado": "2026-10-28T07:15:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -784,6 +784,54 @@
       "fecha_anuncio": "2026-10-26",
       "url": "https://x.com/i/trending/2114596470556917945",
       "reportado_en": "informes/2026-10-27.md"
+    },
+    {
+      "id": "anthropic-drug-development-mithril",
+      "titulo": "Claude en desarrollo de fármacos y compra de Mithril Medicine",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-27",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "reportado_en": "informes/2026-10-28.md"
+    },
+    {
+      "id": "anthropic-gsa-onegov-40",
+      "titulo": "Descuento 40% Claude para gobiernos de EE. UU. (GSA)",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-27",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "reportado_en": "informes/2026-10-28.md"
+    },
+    {
+      "id": "anthropic-s1-filed",
+      "titulo": "Anthropic publica su S-1",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-26",
+      "url": "https://www.anthropic.com/news",
+      "reportado_en": "informes/2026-10-28.md"
+    },
+    {
+      "id": "oracle-openai-chatgpt-codex",
+      "titulo": "Oracle integra ChatGPT y Codex",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-27",
+      "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+      "reportado_en": "informes/2026-10-28.md"
+    },
+    {
+      "id": "apple-ios-27-2-siri-spanish",
+      "titulo": "iOS 27.2: Siri AI beta en español y asistente iWork",
+      "empresa": "Apple",
+      "fecha_anuncio": "2026-10-26",
+      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+      "reportado_en": "informes/2026-10-28.md"
+    },
+    {
+      "id": "google-gemini-api-cli-servicenow",
+      "titulo": "Gemini API CLI beta y alianza ServiceNow",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-27",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "reportado_en": "informes/2026-10-28.md"
     }
   ]
 }
