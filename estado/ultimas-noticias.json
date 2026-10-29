@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T07:15:00-05:00",
+  "actualizado": "2026-10-29T07:15:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -832,6 +832,54 @@
       "fecha_anuncio": "2026-10-27",
       "url": "https://ai.google.dev/gemini-api/docs/changelog",
       "reportado_en": "informes/2026-10-28.md"
+    },
+    {
+      "id": "alphabet-q3-2026-results",
+      "titulo": "Alphabet T3: Cloud +103%, Gemini 1.000M usuarios",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-28",
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "reportado_en": "informes/2026-10-29.md"
+    },
+    {
+      "id": "microsoft-q1-fy27-results",
+      "titulo": "Microsoft T1 FY27: Azure +48%, sin cifra de Copilot",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-28",
+      "url": "https://www.investing.com/news/company-news/microsoft-q1-fy27-slides-cloud-surge-drives-19-revenue-growth-93CH-4981234",
+      "reportado_en": "informes/2026-10-29.md"
+    },
+    {
+      "id": "google-gemini-4-carbon",
+      "titulo": "Gemini 4 Carbon (ciberseguridad, acceso restringido)",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-28",
+      "url": "https://www.investing.com/news/stock-market-news/google-unveils-gemini-4-carbon-with-advanced-cybersecurity-features-4980345",
+      "reportado_en": "informes/2026-10-29.md"
+    },
+    {
+      "id": "deepmind-genie-4",
+      "titulo": "DeepMind Genie 4",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-27",
+      "url": "https://officechai.com/ai/google-genie-4/",
+      "reportado_en": "informes/2026-10-29.md"
+    },
+    {
+      "id": "oracle-google-tpu-2027",
+      "titulo": "Oracle ofrecerá TPU de Google en OCI (2027)",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-10-27",
+      "url": "https://www.nextplatform.com/ai/2026/10/27/oracle-is-expanding-the-accelerator-options-in-oci-for-enterprises/5305815",
+      "reportado_en": "informes/2026-10-29.md"
+    },
+    {
+      "id": "meta-95b-equity-raise",
+      "titulo": "Meta capta hasta US$95.000M en acciones",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-10-26",
+      "url": "https://www.ksl.com/article/51641059/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion",
+      "reportado_en": "informes/2026-10-29.md"
     }
   ]
 }
