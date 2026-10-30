@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T07:15:00-05:00",
+  "actualizado": "2026-10-30T07:15:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -880,6 +880,70 @@
       "fecha_anuncio": "2026-10-26",
       "url": "https://www.ksl.com/article/51641059/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion",
       "reportado_en": "informes/2026-10-29.md"
+    },
+    {
+      "id": "amazon-q3-2026-results",
+      "titulo": "Amazon T3: AWS +39%, backlog US$578.000M",
+      "empresa": "Amazon",
+      "fecha_anuncio": "2026-10-29",
+      "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "reportado_en": "informes/2026-10-30.md"
+    },
+    {
+      "id": "amazon-alexa-devices-oct",
+      "titulo": "Nuevos dispositivos con Alexa+",
+      "empresa": "Amazon",
+      "fecha_anuncio": "2026-10-28",
+      "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+      "reportado_en": "informes/2026-10-30.md"
+    },
+    {
+      "id": "mistral-large-4-weights-released",
+      "titulo": "Pesos de Mistral Large 4 publicados",
+      "empresa": "Mistral",
+      "fecha_anuncio": "2026-10-29",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "reportado_en": "informes/2026-10-30.md"
+    },
+    {
+      "id": "github-universe-2026",
+      "titulo": "GitHub Universe 2026: Copilot app, Fusion, Projects",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-28",
+      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+      "reportado_en": "informes/2026-10-30.md"
+    },
+    {
+      "id": "openai-model-spec-five-values",
+      "titulo": "OpenAI Model Spec con cinco valores",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-29",
+      "url": "https://en.shiftdelete.net/openai-model-spec-update/",
+      "reportado_en": "informes/2026-10-30.md"
+    },
+    {
+      "id": "openai-pro-codex-double-limits",
+      "titulo": "Planes Pro duplican uso de Work y Codex",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-29",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "reportado_en": "informes/2026-10-30.md"
+    },
+    {
+      "id": "anthropic-legal-artifacts-fin-advisors",
+      "titulo": "Claude for Legal, asesores financieros, SentinelOne",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-28",
+      "url": "https://www.abajournal.com/news/article/anthropic-raises-the-bar-with-claude-for-legal-artifacts-law-specific-interactive-tools",
+      "reportado_en": "informes/2026-10-30.md"
+    },
+    {
+      "id": "meta-terms-delayed-nov20",
+      "titulo": "Meta aplaza sus términos al 20 nov",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-10-29",
+      "url": "https://www.niemanlab.org/2026/10/meta-delays-rollout-of-terms-that-would-allow-broad-scraping-of-news-sites-legal-experts-are-still-skeptical/",
+      "reportado_en": "informes/2026-10-30.md"
     }
   ]
 }
