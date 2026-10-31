@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T07:15:00-05:00",
+  "actualizado": "2026-10-31T07:10:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -944,6 +944,70 @@
       "fecha_anuncio": "2026-10-29",
       "url": "https://www.niemanlab.org/2026/10/meta-delays-rollout-of-terms-that-would-allow-broad-scraping-of-news-sites-legal-experts-are-still-skeptical/",
       "reportado_en": "informes/2026-10-30.md"
+    },
+    {
+      "id": "openai-raise-cut-20b",
+      "titulo": "OpenAI reduce su ronda a US$20.000M",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-30",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62763209/openai-cuts-funding-target-ai-selloff",
+      "reportado_en": "informes/2026-10-31.md"
+    },
+    {
+      "id": "openai-gpt6-rosalind-research",
+      "titulo": "GPT-6 Rosalind Research para Business aprobados",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-10-30",
+      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes",
+      "reportado_en": "informes/2026-10-31.md"
+    },
+    {
+      "id": "claude-code-cursor-malicious-extension",
+      "titulo": "Extensión falsa de Claude Code en Cursor",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-30",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "reportado_en": "informes/2026-10-31.md"
+    },
+    {
+      "id": "anthropic-ai-for-science-expands",
+      "titulo": "AI for Science se amplía a fundaciones",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-28",
+      "url": "https://www.anthropic.com/news",
+      "reportado_en": "informes/2026-10-31.md"
+    },
+    {
+      "id": "robots-txt-ai-training-optout",
+      "titulo": "Señal común en robots.txt contra entrenamiento de IA",
+      "empresa": "Varias",
+      "fecha_anuncio": "2026-10-30",
+      "url": "https://aiweekly.co/alerts/openai-google-microsoft-anthropic-back-one-ai-opt-out-token",
+      "reportado_en": "informes/2026-10-31.md"
+    },
+    {
+      "id": "apple-overtakes-nvidia",
+      "titulo": "Apple supera a NVIDIA en valor de mercado",
+      "empresa": "Apple",
+      "fecha_anuncio": "2026-10-30",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company",
+      "reportado_en": "informes/2026-10-31.md"
+    },
+    {
+      "id": "amd-meta-1b",
+      "titulo": "AMD invierte US$1.000M en Meta",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-10-29",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-meta-advance-strategic-partnership-132000413.html",
+      "reportado_en": "informes/2026-10-31.md"
+    },
+    {
+      "id": "microsoft-copilot-october-roundup",
+      "titulo": "Novedades de Copilot octubre 2026",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-30",
+      "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-microsoft-copilot--october-2026/4568528",
+      "reportado_en": "informes/2026-10-31.md"
     }
   ]
 }
