@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T07:10:00-05:00",
+  "actualizado": "2026-11-02T07:15:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -1048,6 +1048,62 @@
       "fecha_anuncio": "2026-10-31",
       "url": "https://phemex.com/news/article/xai-to-embed-invisible-watermarks-in-grok-api-outputs-starting-november-7-102012",
       "reportado_en": "informes/2026-11-01.md"
+    },
+    {
+      "id": "anthropic-plans-max-ultra-rename",
+      "titulo": "Claude renombra planes: Max US$100 y Ultra US$200",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-30",
+      "url": "https://claude.com/pricing",
+      "reportado_en": "informes/2026-11-02.md"
+    },
+    {
+      "id": "apple-q4-2026-preview",
+      "titulo": "Previa resultados Apple T4 2026 (2 nov)",
+      "empresa": "Apple",
+      "fecha_anuncio": "2026-11-02",
+      "url": "https://www.macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2/",
+      "reportado_en": "informes/2026-11-02.md"
+    },
+    {
+      "id": "anthropic-ipo-warren-blackstone",
+      "titulo": "IPO Anthropic: carta de Warren y calificación BB",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-10-30",
+      "url": "https://www.cfodive.com/news/sen-warren-probes-ai-safety-market-risks-anthropic-ipo/873076/",
+      "reportado_en": "informes/2026-11-02.md"
+    },
+    {
+      "id": "microsoft-copilot-usage-billing-dec1",
+      "titulo": "Cobro por uso de Copilot desde 1 dic",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-31",
+      "url": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october",
+      "reportado_en": "informes/2026-11-02.md"
+    },
+    {
+      "id": "meta-sp-outlook-negative",
+      "titulo": "S&P pone en negativo a Meta",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-10-31",
+      "url": "https://247wallst.com/investing/2026/10/31/sp-says-meta-cant-make-money-from-ai-as-well-as-its-rivals/",
+      "reportado_en": "informes/2026-11-02.md"
+    },
+    {
+      "id": "xai-naacp-lawsuit-continues",
+      "titulo": "Sigue demanda NAACP contra xAI",
+      "empresa": "xAI",
+      "fecha_anuncio": "2026-10-31",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "reportado_en": "informes/2026-11-02.md"
+    },
+    {
+      "id": "serval-150m-series-c",
+      "titulo": "Serval US$150M Serie C",
+      "empresa": "Serval",
+      "fecha_anuncio": "2026-10-29",
+      "url": "https://mystartupplaybookpodcast.substack.com/p/startup-pulse-monday-2-november-2026",
+      "reportado_en": "informes/2026-11-02.md"
     }
   ]
 }
