@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T07:15:00-05:00",
+  "actualizado": "2026-11-03T07:10:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -1104,6 +1104,38 @@
       "fecha_anuncio": "2026-10-29",
       "url": "https://mystartupplaybookpodcast.substack.com/p/startup-pulse-monday-2-november-2026",
       "reportado_en": "informes/2026-11-02.md"
+    },
+    {
+      "id": "apple-q4-2026-results",
+      "titulo": "Apple T4 FY26: US$114.500M, iPhone +17%, margen a la baja",
+      "empresa": "Apple",
+      "fecha_anuncio": "2026-11-02",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "reportado_en": "informes/2026-11-03.md"
+    },
+    {
+      "id": "apple-siri-paid-tier",
+      "titulo": "Siri tendrá acceso de pago para más capacidad de IA",
+      "empresa": "Apple",
+      "fecha_anuncio": "2026-11-02",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62806242/apple-ai-agents-siri-earnings",
+      "reportado_en": "informes/2026-11-03.md"
+    },
+    {
+      "id": "anthropic-s1a-q3-numbers",
+      "titulo": "S-1/A de Anthropic: ingresos T3 ~US$17.000M y pérdida operativa",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-02",
+      "url": "https://fortune.com/2026/11/02/anthropics-growth-slowed-and-costs-jumped-in-the-third-quarter-updated-ipo-filing-shows/",
+      "reportado_en": "informes/2026-11-03.md"
+    },
+    {
+      "id": "openai-chat-work-tabs-merge",
+      "titulo": "ChatGPT une pestañas Chat y Work",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-02",
+      "url": "https://www.croma.com/unboxed/openai-merges-chatgpt-chat-work-tabs",
+      "reportado_en": "informes/2026-11-03.md"
     }
   ]
 }
