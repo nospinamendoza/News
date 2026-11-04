@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T07:10:00-05:00",
+  "actualizado": "2026-11-04T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -1136,6 +1136,54 @@
       "fecha_anuncio": "2026-11-02",
       "url": "https://www.croma.com/unboxed/openai-merges-chatgpt-chat-work-tabs",
       "reportado_en": "informes/2026-11-03.md"
+    },
+    {
+      "id": "apple-ios-27-3-beta-china-live",
+      "titulo": "Beta iOS 27.3 con Apple Intelligence en China",
+      "empresa": "Apple",
+      "fecha_anuncio": "2026-11-03",
+      "url": "https://9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china/",
+      "reportado_en": "informes/2026-11-04.md"
+    },
+    {
+      "id": "anthropic-text-watermark",
+      "titulo": "Marca de agua de texto en la API de Claude",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-03",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/text-watermark",
+      "reportado_en": "informes/2026-11-04.md"
+    },
+    {
+      "id": "anthropic-message-threads-beta",
+      "titulo": "Message threads en beta en la API de Claude",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-02",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/message-threads",
+      "reportado_en": "informes/2026-11-04.md"
+    },
+    {
+      "id": "anthropic-ipo-valuation-push",
+      "titulo": "Inversionistas piden valorar Anthropic en US$1,5-1,6 billones",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-03",
+      "url": "https://investinglive.com/stocks/wsj-anthropic-ipo-investors-push-for-lower-1-5-trillion-valuation-after-tech-selloff/",
+      "reportado_en": "informes/2026-11-04.md"
+    },
+    {
+      "id": "anthropic-mythos-5-5-rumor",
+      "titulo": "Rumor: Claude Mythos 5.5",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-01",
+      "url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/",
+      "reportado_en": "informes/2026-11-04.md"
+    },
+    {
+      "id": "gemini-enterprise-salesforce-ga",
+      "titulo": "Gemini Enterprise conecta con Salesforce (GA)",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-03",
+      "url": "https://cloud.google.com/gemini/enterprise/docs/release-notes",
+      "reportado_en": "informes/2026-11-04.md"
     }
   ]
 }
