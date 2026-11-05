@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T07:05:00-05:00",
+  "actualizado": "2026-11-05T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -1184,6 +1184,54 @@
       "fecha_anuncio": "2026-11-03",
       "url": "https://cloud.google.com/gemini/enterprise/docs/release-notes",
       "reportado_en": "informes/2026-11-04.md"
+    },
+    {
+      "id": "openai-pierre-acquisition",
+      "titulo": "OpenAI comprará Pierre Computer Company",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-04",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "reportado_en": "informes/2026-11-05.md"
+    },
+    {
+      "id": "github-copilot-xcode-preview",
+      "titulo": "Copilot en el asistente de Xcode",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-11-04",
+      "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant/",
+      "reportado_en": "informes/2026-11-05.md"
+    },
+    {
+      "id": "github-copilot-jetbrains-air",
+      "titulo": "Copilot en JetBrains Air",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-11-03",
+      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air/",
+      "reportado_en": "informes/2026-11-05.md"
+    },
+    {
+      "id": "nvidia-china-49-cap",
+      "titulo": "NVIDIA limita a 49% clientes chinos en nubes",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-03",
+      "url": "https://finance.yahoo.com/technology/articles/nvidia-tells-cloud-clients-cap-073914242.html",
+      "reportado_en": "informes/2026-11-05.md"
+    },
+    {
+      "id": "gemini-agent-platform-tuned-global-ga",
+      "titulo": "Gemini ajustado en endpoints globales (GA)",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-02",
+      "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/release-notes",
+      "reportado_en": "informes/2026-11-05.md"
+    },
+    {
+      "id": "thermit-seed",
+      "titulo": "Thermit ronda semilla",
+      "empresa": "Thermit",
+      "fecha_anuncio": "2026-11-04",
+      "url": "https://en.wowtale.net/2026/11/04/235859/",
+      "reportado_en": "informes/2026-11-05.md"
     }
   ]
 }
