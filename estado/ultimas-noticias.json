@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T07:05:00-05:00",
+  "actualizado": "2026-11-06T07:10:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -1232,6 +1232,46 @@
       "fecha_anuncio": "2026-11-04",
       "url": "https://en.wowtale.net/2026/11/04/235859/",
       "reportado_en": "informes/2026-11-05.md"
+    },
+    {
+      "id": "anthropic-personal-finance-beta",
+      "titulo": "Claude Personal Finance (beta, EE. UU.)",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-05",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "reportado_en": "informes/2026-11-06.md"
+    },
+    {
+      "id": "anthropic-enterprise-security-center",
+      "titulo": "Claude Enterprise: centro de seguridad e inference hooks",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-05",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "reportado_en": "informes/2026-11-06.md"
+    },
+    {
+      "id": "anthropic-api-ip-allowlist",
+      "titulo": "API de Claude: lista de IP permitidas y cierre de sesión",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-05",
+      "url": "https://platform.claude.com/docs/en/manage-claude/ip-allowlist",
+      "reportado_en": "informes/2026-11-06.md"
+    },
+    {
+      "id": "market-chip-selloff-1105",
+      "titulo": "Desplome de chips 5 nov (NVIDIA -9%, AMD -17%)",
+      "empresa": "Varias",
+      "fecha_anuncio": "2026-11-05",
+      "url": "https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges",
+      "reportado_en": "informes/2026-11-06.md"
+    },
+    {
+      "id": "google-schools-search-ai-controversy",
+      "titulo": "Polémica Google, colegios y herramientas de IA",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-03",
+      "url": "https://www.cbsnews.com/news/google-search-access-schools-ai-tools/",
+      "reportado_en": "informes/2026-11-06.md"
     }
   ]
 }
