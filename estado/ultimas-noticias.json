@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T07:10:00-05:00",
+  "actualizado": "2026-11-07T07:05:00-05:00",
   "noticias": [
     {
       "id": "anthropic-haiku-5-5",
@@ -1272,6 +1272,46 @@
       "fecha_anuncio": "2026-11-03",
       "url": "https://www.cbsnews.com/news/google-search-access-schools-ai-tools/",
       "reportado_en": "informes/2026-11-06.md"
+    },
+    {
+      "id": "chip-rebound-1106",
+      "titulo": "Rebote de chips el 6 nov",
+      "empresa": "Varias",
+      "fecha_anuncio": "2026-11-06",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html",
+      "reportado_en": "informes/2026-11-07.md"
+    },
+    {
+      "id": "anthropic-ipo-roadshow-next-week",
+      "titulo": "IPO Anthropic: roadshow próxima semana, precio ~19-20 nov",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-06",
+      "url": "https://financefeeds.com/anthropic-ipo-roadshow-looms-with-no-price-range/",
+      "reportado_en": "informes/2026-11-07.md"
+    },
+    {
+      "id": "anthropic-enterprise-spend-tags",
+      "titulo": "Claude Enterprise: gasto por etiquetas de proyecto",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-06",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "reportado_en": "informes/2026-11-07.md"
+    },
+    {
+      "id": "qwen4-teaser",
+      "titulo": "Teaser de Qwen 4",
+      "empresa": "Alibaba",
+      "fecha_anuncio": "2026-11-06",
+      "url": "https://x.com/AGTPinsights/status/2118687517108994450",
+      "reportado_en": "informes/2026-11-07.md"
+    },
+    {
+      "id": "future-secure-ai-80m",
+      "titulo": "Future Secure AI US$80M",
+      "empresa": "Future Secure AI",
+      "fecha_anuncio": "2026-11-06",
+      "url": "https://www.startupdaily.net/topic/funding/future-secure-ai-raises-us80-million-for-ai-co-workers/",
+      "reportado_en": "informes/2026-11-07.md"
     }
   ]
 }
