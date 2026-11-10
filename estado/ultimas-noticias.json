@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T07:10:00-05:00",
+  "actualizado": "2026-11-10T07:10:00-05:00",
   "noticias": [
     {
       "id": "salesforce-agentforce-winter27-ga",
@@ -1248,6 +1248,54 @@
       "fecha_anuncio": "2026-11-08",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
       "reportado_en": "informes/2026-11-09.md"
+    },
+    {
+      "id": "anthropic-fable-mythos-5-2",
+      "titulo": "Claude Fable 5.2 y Mythos 5.2",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-09",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "reportado_en": "informes/2026-11-10.md"
+    },
+    {
+      "id": "anthropic-ipo-roadshow-price-range",
+      "titulo": "Roadshow IPO Anthropic: US$70-78 por acción",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "reportado_en": "informes/2026-11-10.md"
+    },
+    {
+      "id": "openai-11b-initial-close",
+      "titulo": "OpenAI cierra US$11.000M iniciales",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-09",
+      "url": "https://channelinsider.com/channel-business/news-openai-11-billion-funding-channel-partners",
+      "reportado_en": "informes/2026-11-10.md"
+    },
+    {
+      "id": "web-summit-2026",
+      "titulo": "Web Summit 2026: robots y delegación china",
+      "empresa": "Varias",
+      "fecha_anuncio": "2026-11-09",
+      "url": "https://www.euronews.com/2026/11/09/web-summit-2026-in-lisbon-highlights-record-china-presence-and-robot-speakers-debut",
+      "reportado_en": "informes/2026-11-10.md"
+    },
+    {
+      "id": "microsoft-copilot-chat-fair-use",
+      "titulo": "Límites de uso justo en Copilot Chat",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-11-09",
+      "url": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november",
+      "reportado_en": "informes/2026-11-10.md"
+    },
+    {
+      "id": "coframe-25m",
+      "titulo": "Coframe US$25M Serie A",
+      "empresa": "Coframe",
+      "fecha_anuncio": "2026-11-09",
+      "url": "https://unite.ai/coframe-raises-25m-series-a-bringing-total-funding-to-35m",
+      "reportado_en": "informes/2026-11-10.md"
     }
   ]
 }
