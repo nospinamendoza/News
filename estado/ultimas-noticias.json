@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T07:10:00-05:00",
+  "actualizado": "2026-11-11T07:10:00-05:00",
   "noticias": [
     {
       "id": "salesforce-agentforce-winter27-ga",
@@ -1296,6 +1296,62 @@
       "fecha_anuncio": "2026-11-09",
       "url": "https://unite.ai/coframe-raises-25m-series-a-bringing-total-funding-to-35m",
       "reportado_en": "informes/2026-11-10.md"
+    },
+    {
+      "id": "coreweave-q3-2026",
+      "titulo": "CoreWeave T3: US$3.661M, backlog US$132.500M",
+      "empresa": "CoreWeave",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "reportado_en": "informes/2026-11-11.md"
+    },
+    {
+      "id": "openai-businesses-in-chatgpt",
+      "titulo": "Businesses in ChatGPT (Business Hub y Agents)",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://www.unite.ai/openai-launches-business-hub-and-business-agents-in-chatgpt/",
+      "reportado_en": "informes/2026-11-11.md"
+    },
+    {
+      "id": "google-tpu-8tx-8i-max",
+      "titulo": "Google TPU 8tx y 8i Max",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-09",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "reportado_en": "informes/2026-11-11.md"
+    },
+    {
+      "id": "xai-grok-4-8-rollout",
+      "titulo": "Grok 4.8 termina preentrenamiento",
+      "empresa": "xAI",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://www.tokenpost.com/news/technology/53847",
+      "reportado_en": "informes/2026-11-11.md"
+    },
+    {
+      "id": "openai-voice-retire-dec11",
+      "titulo": "ChatGPT retira modos de voz antiguos el 11 dic",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://fourweekmba.com/ai-openai-retires-2-of-3-chatgpt-voice-modes-31-days-notice/",
+      "reportado_en": "informes/2026-11-11.md"
+    },
+    {
+      "id": "meta-muse-ember",
+      "titulo": "Meta Muse Ember",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-10-2026/",
+      "reportado_en": "informes/2026-11-11.md"
+    },
+    {
+      "id": "anthropic-ipo-pricing-nov18",
+      "titulo": "IPO Anthropic: precio 18 nov, debut 19 nov",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/",
+      "reportado_en": "informes/2026-11-11.md"
     }
   ]
 }
