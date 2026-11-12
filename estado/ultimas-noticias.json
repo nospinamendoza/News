@@ -1,22 +1,6 @@
 {
-  "actualizado": "2026-11-11T07:10:00-05:00",
+  "actualizado": "2026-11-12T07:15:00-05:00",
   "noticias": [
-    {
-      "id": "salesforce-agentforce-winter27-ga",
-      "titulo": "Salesforce Agentforce Winter '27 GA (activación por defecto)",
-      "empresa": "Salesforce",
-      "fecha_anuncio": "2026-10-12",
-      "url": "https://www.salesforceben.com/salesforce-to-auto-enable-agentforce-in-winter-27-what-that-means-for-you/",
-      "reportado_en": "informes/2026-10-12.md; informes/2026-10-13.md (actualización)"
-    },
-    {
-      "id": "techcrunch-disrupt-2026",
-      "titulo": "TechCrunch Disrupt 2026 (13-15 oct)",
-      "empresa": "Evento",
-      "fecha_anuncio": "2026-08-26",
-      "url": "https://techcrunch.com/2026/08/26/the-3-reasons-this-years-ai-centric-techcrunch-disrupt-is-a-must-for-founders/",
-      "reportado_en": "informes/2026-10-12.md"
-    },
     {
       "id": "meta-muse-wonder",
       "titulo": "Meta Muse Wonder y Muse Wonder Full",
@@ -1352,6 +1336,78 @@
       "fecha_anuncio": "2026-11-10",
       "url": "https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/",
       "reportado_en": "informes/2026-11-11.md"
+    },
+    {
+      "id": "google-gemini-4-carbon-ga",
+      "titulo": "Gemini 4 Carbon disponible para pago y Ultra",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "reportado_en": "informes/2026-11-12.md"
+    },
+    {
+      "id": "google-gemini-for-healthcare",
+      "titulo": "Gemini for Healthcare (vista previa)",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://www.googlecloudpresscorner.com/2026-11-10-Google-Cloud-Launches-Gemini-for-Healthcare",
+      "reportado_en": "informes/2026-11-12.md"
+    },
+    {
+      "id": "anthropic-sheets-whiteboards-data",
+      "titulo": "Claude Sheets, Whiteboards y Data",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+      "reportado_en": "informes/2026-11-12.md"
+    },
+    {
+      "id": "anthropic-ipo-oversubscribed",
+      "titulo": "IPO Anthropic con demanda fuerte",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-11",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "reportado_en": "informes/2026-11-12.md"
+    },
+    {
+      "id": "qwen4-max-preview",
+      "titulo": "Qwen4-Max en vista previa",
+      "empresa": "Alibaba",
+      "fecha_anuncio": "2026-11-11",
+      "url": "https://help.aliyun.com/en/model-studio/qwen4-max-preview",
+      "reportado_en": "informes/2026-11-12.md"
+    },
+    {
+      "id": "openai-odessia-acquisition",
+      "titulo": "OpenAI compra Odessia",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "reportado_en": "informes/2026-11-12.md"
+    },
+    {
+      "id": "nvidia-board-investigation",
+      "titulo": "Junta de NVIDIA investiga a su director ejecutivo",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-08",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "reportado_en": "informes/2026-11-12.md"
+    },
+    {
+      "id": "adobe-agents-mcp",
+      "titulo": "Adobe agentes y servidor MCP",
+      "empresa": "Adobe",
+      "fecha_anuncio": "2026-11-10",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "reportado_en": "informes/2026-11-12.md"
+    },
+    {
+      "id": "anthropic-usage-reset",
+      "titulo": "Reinicio gratuito de límites de Claude",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-11",
+      "url": "https://x.com/ClaudeDevs/status/2120275296637321476",
+      "reportado_en": "informes/2026-11-12.md"
     }
   ]
 }
