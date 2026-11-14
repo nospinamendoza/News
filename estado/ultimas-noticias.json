@@ -1,30 +1,6 @@
 {
-  "actualizado": "2026-11-13T07:10:00-05:00",
+  "actualizado": "2026-11-14T07:15:00-05:00",
   "noticias": [
-    {
-      "id": "google-gemini-4-argon-ga",
-      "titulo": "Gemini 4 Argon disponible (AI Pro/Ultra, API, Google Cloud)",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-10-13",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
-      "reportado_en": "informes/2026-10-14.md"
-    },
-    {
-      "id": "anthropic-singapore-office-mou",
-      "titulo": "Anthropic oficina en Singapur + MOU",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-14",
-      "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "reportado_en": "informes/2026-10-14.md; informes/2026-10-15.md (detalles)"
-    },
-    {
-      "id": "microsoft-maia-300",
-      "titulo": "Microsoft Maia 300",
-      "empresa": "Microsoft",
-      "fecha_anuncio": "2026-10-12",
-      "url": "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals",
-      "reportado_en": "informes/2026-10-14.md"
-    },
     {
       "id": "google-argon-gemini-enterprise",
       "titulo": "Argon en app Gemini Enterprise (default on 27 oct)",
@@ -1456,6 +1432,86 @@
       "fecha_anuncio": "2026-11-12",
       "url": "https://mlq.ai/news/anthropics-bankers-weigh-pricing-its-ipo-above-the-70-to-78-range-lifting-its-valuation-to-15-trillion-or-more-ft-reports/",
       "reportado_en": "informes/2026-11-13.md"
+    },
+    {
+      "id": "google-gemini-4-hydrogen",
+      "titulo": "Gemini 4 Hydrogen",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-12",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "reportado_en": "informes/2026-11-14.md"
+    },
+    {
+      "id": "openai-chatgpt-wallet",
+      "titulo": "ChatGPT Wallet para agentes",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-13",
+      "url": "https://www.androidauthority.com/chatgpt-wallet-3735154/",
+      "reportado_en": "informes/2026-11-14.md"
+    },
+    {
+      "id": "nonprofits-sue-frontier-labs",
+      "titulo": "ONG demandan a 5 laboratorios para frenar IA avanzada",
+      "empresa": "Varias",
+      "fecha_anuncio": "2026-11-12",
+      "url": "https://justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development",
+      "reportado_en": "informes/2026-11-14.md"
+    },
+    {
+      "id": "microsoft-365-outage-nov12",
+      "titulo": "Caída global de Microsoft 365",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-11-12",
+      "url": "https://qz.com/microsoft-365-outage-outlook-teams-second-day-111326",
+      "reportado_en": "informes/2026-11-14.md"
+    },
+    {
+      "id": "google-gemini-glasses-preorder",
+      "titulo": "Preventa gafas con Gemini",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-12",
+      "url": "https://thenextweb.com/news/google-samsung-smart-glasses-preorders-warby-parker-gentle-monster",
+      "reportado_en": "informes/2026-11-14.md"
+    },
+    {
+      "id": "langchain-300m",
+      "titulo": "LangChain US$300M a US$3.000M",
+      "empresa": "LangChain",
+      "fecha_anuncio": "2026-11-13",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "reportado_en": "informes/2026-11-14.md"
+    },
+    {
+      "id": "openai-daybreak-redteam",
+      "titulo": "OpenAI Daybreak Red Team y Defense Factory",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-12",
+      "url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+      "reportado_en": "informes/2026-11-14.md"
+    },
+    {
+      "id": "openai-robotics-team-disbanded",
+      "titulo": "OpenAI disuelve equipo de robótica",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-13",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+      "reportado_en": "informes/2026-11-14.md"
+    },
+    {
+      "id": "anthropic-managed-agents-self-hosted",
+      "titulo": "Claude Managed Agents autoalojado",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-12",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "reportado_en": "informes/2026-11-14.md"
+    },
+    {
+      "id": "nvidia-ceo-search",
+      "titulo": "NVIDIA busca nuevo director ejecutivo",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-13",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+      "reportado_en": "informes/2026-11-14.md"
     }
   ]
 }
