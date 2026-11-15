@@ -1,54 +1,6 @@
 {
-  "actualizado": "2026-11-14T07:15:00-05:00",
+  "actualizado": "2026-11-15T07:10:00-05:00",
   "noticias": [
-    {
-      "id": "google-argon-gemini-enterprise",
-      "titulo": "Argon en app Gemini Enterprise (default on 27 oct)",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-10-13",
-      "url": "https://docs.cloud.google.com/gemini/enterprise/docs/release-notes",
-      "reportado_en": "informes/2026-10-15.md"
-    },
-    {
-      "id": "character-ai-bankruptcy",
-      "titulo": "Character.AI en quiebra; Disney oferta base US$20M",
-      "empresa": "Startup",
-      "fecha_anuncio": "2026-10-13",
-      "url": "https://cbsnews.com/news/character-ai-files-bankruptcy-disney-license/",
-      "reportado_en": "informes/2026-10-15.md"
-    },
-    {
-      "id": "anthropic-midterms-2026",
-      "titulo": "Anthropic: Preparing for the 2026 US midterms",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-14",
-      "url": "https://www.anthropic.com/news",
-      "reportado_en": "informes/2026-10-15.md"
-    },
-    {
-      "id": "xai-unified-subscription",
-      "titulo": "xAI une Grok, Cursor y X Premium",
-      "empresa": "xAI",
-      "fecha_anuncio": "2026-10-13",
-      "url": "https://marketingmind.in/elon-musks-xai-unifies-grok-cursor-and-x-premium-into-one-subscription-plan/",
-      "reportado_en": "informes/2026-10-15.md"
-    },
-    {
-      "id": "deepseek-funding-12b",
-      "titulo": "DeepSeek ronda ~US$12.000M",
-      "empresa": "DeepSeek",
-      "fecha_anuncio": "2026-10-06",
-      "url": "https://technode.com/2026/10/08/deepseek-reportedly-nears-12-billion-funding-round-backed-by-tencent-and-catl/",
-      "reportado_en": "informes/2026-10-15.md"
-    },
-    {
-      "id": "tc-disrupt-battlefield-finalists",
-      "titulo": "Finalistas Startup Battlefield 2026",
-      "empresa": "Evento",
-      "fecha_anuncio": "2026-10-14",
-      "url": "https://daily.dev/posts/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026-fjsynjvrb",
-      "reportado_en": "informes/2026-10-15.md"
-    },
     {
       "id": "tc-disrupt-battlefield-winner",
       "titulo": "Intero Biosystems gana Startup Battlefield",
@@ -1512,6 +1464,94 @@
       "fecha_anuncio": "2026-11-13",
       "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
       "reportado_en": "informes/2026-11-14.md"
+    },
+    {
+      "id": "crowdstrike-fiddler-dreadnode",
+      "titulo": "CrowdStrike compra Fiddler AI y Dreadnode (~US$495M)",
+      "empresa": "CrowdStrike",
+      "fecha_anuncio": "2026-11-13",
+      "url": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/amp/",
+      "reportado_en": "informes/2026-11-15"
+    },
+    {
+      "id": "openai-databricks-partnership",
+      "titulo": "OpenAI y Databricks: ChatGPT y Codex sobre datos gobernados",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-13",
+      "url": "https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
+      "reportado_en": "informes/2026-11-15"
+    },
+    {
+      "id": "cloudflare-kitesurf",
+      "titulo": "Cloudflare Kitesurf, navegador para agentes",
+      "empresa": "Cloudflare",
+      "fecha_anuncio": "2026-11-14",
+      "url": "https://mlq.ai/news/cloudflare-open-sources-kitesurf-its-workers-based-browser-engine-for-ai-agents",
+      "reportado_en": "informes/2026-11-15"
+    },
+    {
+      "id": "ibm-microsoft-imagine-enterprise",
+      "titulo": "IBM y Microsoft Imagine Enterprise",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-11-13",
+      "url": "https://portalerp.com/noticia/ibm-and-microsoft-introduce-imagine-enterprise-for-ai-agent-deployment",
+      "reportado_en": "informes/2026-11-15"
+    },
+    {
+      "id": "microsoft-ignite-2026-agenda",
+      "titulo": "Microsoft Ignite 17-20 nov",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://itdaily.com/events/microsoft-ignite/",
+      "reportado_en": "informes/2026-11-15"
+    },
+    {
+      "id": "github-copilot-deprecation-nov16",
+      "titulo": "GitHub Copilot retira modelos el 16 nov",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-15",
+      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "reportado_en": "informes/2026-11-15"
+    },
+    {
+      "id": "gemini-preview-shutdown-nov17",
+      "titulo": "Apagado de modelos preview de la API de Gemini el 17 nov",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://ai.google.dev/gemini-api/docs/deprecations",
+      "reportado_en": "informes/2026-11-15"
+    },
+    {
+      "id": "gemini-gems-to-skills",
+      "titulo": "Gems de Gemini pasan a Skills (sin confirmar)",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://androidauthority.com/google-sunset-gemini-gems-november-3716162",
+      "reportado_en": "informes/2026-11-15"
+    },
+    {
+      "id": "meta-terms-20nov-paused",
+      "titulo": "Meta pausa términos para anunciantes del 20 nov",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-11-05",
+      "url": "https://searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493",
+      "reportado_en": "informes/2026-11-15"
+    },
+    {
+      "id": "mercor-750m",
+      "titulo": "Mercor levanta US$750M a US$20.000M",
+      "empresa": "Mercor",
+      "fecha_anuncio": "2026-11-13",
+      "url": "https://www.staffingindustry.com/news/global-daily-news/mercor-lands-750m-funding-round-valuing-staffing-platform-at-20b",
+      "reportado_en": "informes/2026-11-15"
+    },
+    {
+      "id": "tencent-workbuddy",
+      "titulo": "Tencent Cloud WorkBuddy",
+      "empresa": "Tencent",
+      "fecha_anuncio": "2026-11-13",
+      "url": "https://www.gate.com/news/detail/TENCENT/tencent-cloud-launches-workbuddy-ai-agent-for-international-enterprises-25610595",
+      "reportado_en": "informes/2026-11-15"
     }
   ]
 }
