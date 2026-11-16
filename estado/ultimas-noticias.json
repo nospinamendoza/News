@@ -1,38 +1,6 @@
 {
-  "actualizado": "2026-11-15T07:10:00-05:00",
+  "actualizado": "2026-11-16T07:15:00-05:00",
   "noticias": [
-    {
-      "id": "tc-disrupt-battlefield-winner",
-      "titulo": "Intero Biosystems gana Startup Battlefield",
-      "empresa": "Evento",
-      "fecha_anuncio": "2026-10-15",
-      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-      "reportado_en": "informes/2026-10-16.md"
-    },
-    {
-      "id": "apate-ai-scam-agents",
-      "titulo": "Apate.ai agentes anti-estafa",
-      "empresa": "Startup",
-      "fecha_anuncio": "2026-10-14",
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "reportado_en": "informes/2026-10-16.md"
-    },
-    {
-      "id": "anthropic-independent-evaluators-update",
-      "titulo": "Anthropic: An update on independent evaluators",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-15",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "reportado_en": "informes/2026-10-16.md; informes/2026-10-17.md (detalles)"
-    },
-    {
-      "id": "microsoft-onedrive-copilot-event-2026",
-      "titulo": "Evento OneDrive + Copilot 20 oct",
-      "empresa": "Microsoft",
-      "fecha_anuncio": "2026-10-15",
-      "url": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/save-the-date-join-us-october-20-for-the-onedrive-copilot/ba-p/4556814",
-      "reportado_en": "informes/2026-10-16.md"
-    },
     {
       "id": "openai-chatgpt-slides",
       "titulo": "ChatGPT Slides",
@@ -1552,6 +1520,102 @@
       "fecha_anuncio": "2026-11-13",
       "url": "https://www.gate.com/news/detail/TENCENT/tencent-cloud-launches-workbuddy-ai-agent-for-international-enterprises-25610595",
       "reportado_en": "informes/2026-11-15"
+    },
+    {
+      "id": "nvidia-huang-weighs-comeback",
+      "titulo": "Jensen Huang evaluaría volver como CEO (FT)",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-13",
+      "url": "https://tech.yahoo.com/general/breaking-news/article/jensen-huang-weighs-comeback-as-nvidia-ceo-as-allies-lobby-board-ft-reports-bessent-calls-for-dramatic-shakeup-204839950.html",
+      "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "nvidia-q3-preview-consensus",
+      "titulo": "Previa de resultados NVIDIA: consenso ~US$109.000M",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-nvidias-next-quarterly-earnings-151739351.html",
+      "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "github-copilot-model-retirement-list-confirmed",
+      "titulo": "Copilot retira Opus 4.8, Opus 5 y GPT-5.6 Terra",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-10-15",
+      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "gemini-carplay-rollout",
+      "titulo": "Gemini llega a Apple CarPlay",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-15",
+      "url": "https://www.arenaev.com/google_starts_rolling_out_the_gemini_app_on_apple_carplay-news-6361.php",
+      "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "google-gemini-wallet-bank-connect",
+      "titulo": "Gemini se conecta a Google Wallet y cuentas bancarias",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-13",
+      "url": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
+      "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "gemini-4-carbon-matharena",
+      "titulo": "Gemini 4 Carbon primero en MathArena",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-14",
+      "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026",
+      "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "us-allies-san-francisco-declaration-ai-supply-chain",
+      "titulo": "Declaración de San Francisco sobre cadena de suministro de IA",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-15",
+      "url": "https://aiweekly.co/alerts/us-and-8-allies-sign-san-francisco-declaration-creating-joint-registry-of-ai",
+      "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "anthropic-supported-regions-policy-nov12",
+      "titulo": "Anthropic actualiza política de regiones no soportadas",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-12",
+      "url": "https://www.mobileworldlive.com/ai-cloud/anthropic-tightens-controls-in-unsupported-regions",
+      "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "anthropic-ap-licensing-deal",
+      "titulo": "Anthropic licencia datos electorales de AP",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-04",
+      "url": "https://runtimewire.com/article/anthropic-ap-licensing-deal-claude-election",
+      "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "meituan-longcat-2-5-open",
+      "titulo": "Meituan LongCat-2.5 con pesos abiertos",
+      "empresa": "Meituan",
+      "fecha_anuncio": "2026-11-09",
+      "url": "https://aiweekly.co/alerts/meituan-open-sources-longcat-25-16t-moe-under-mit-license",
+      "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "apple-health-ai-study",
+      "titulo": "Apple estudio de salud con IA y Siri IA en Apple TV",
+      "empresa": "Apple",
+      "fecha_anuncio": "2026-11-15",
+      "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026",
+      "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "sierra-poppy-1-0",
+      "titulo": "Sierra Poppy 1.0 para agentes",
+      "empresa": "Sierra",
+      "fecha_anuncio": "2026-11-14",
+      "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026",
+      "reportado_en": "informes/2026-11-16"
     }
   ]
 }
