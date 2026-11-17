@@ -1,38 +1,6 @@
 {
-  "actualizado": "2026-11-16T07:15:00-05:00",
+  "actualizado": "2026-11-17T07:15:00-05:00",
   "noticias": [
-    {
-      "id": "openai-chatgpt-slides",
-      "titulo": "ChatGPT Slides",
-      "empresa": "OpenAI",
-      "fecha_anuncio": "2026-10-16",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "reportado_en": "informes/2026-10-17.md"
-    },
-    {
-      "id": "reflection-beam-open-weights",
-      "titulo": "Reflection AI Beam pesos Apache 2.0",
-      "empresa": "Startup",
-      "fecha_anuncio": "2026-10-16",
-      "url": "https://reflection.ai/blog/beam-is-available",
-      "reportado_en": "informes/2026-10-17.md"
-    },
-    {
-      "id": "openai-8-states-lawsuit",
-      "titulo": "8 estados demandan a OpenAI",
-      "empresa": "OpenAI",
-      "fecha_anuncio": "2026-10-14",
-      "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
-      "reportado_en": "informes/2026-10-17.md"
-    },
-    {
-      "id": "xai-grok-voice-3",
-      "titulo": "Grok Voice 3.0",
-      "empresa": "xAI",
-      "fecha_anuncio": "2026-10-14",
-      "url": "https://www.unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents/",
-      "reportado_en": "informes/2026-10-17.md"
-    },
     {
       "id": "deepseek-v4-1-flash-1017",
       "titulo": "DeepSeek V4.1-Flash-1017 pesos abiertos",
@@ -1616,6 +1584,142 @@
       "fecha_anuncio": "2026-11-14",
       "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026",
       "reportado_en": "informes/2026-11-16"
+    },
+    {
+      "id": "california-ag-sues-openai-rogue-agents",
+      "titulo": "California demanda a OpenAI por incidentes de agentes",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "us-export-controls-remote-compute",
+      "titulo": "EE. UU. regla contra acceso remoto a chips de IA",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "trump-national-champions-ai",
+      "titulo": "Campeones nacionales de IA (sin confirmar)",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://qz.com/trump-administration-nvidia-ai-national-champions-111626",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "openai-embedded-assessments-apollo",
+      "titulo": "OpenAI integra evaluadores de Apollo Research",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "openai-chatgpt-academic-researchers",
+      "titulo": "ChatGPT para 200.000 investigadores; solicitudes 23 nov",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "openai-lvmh-media-partnership",
+      "titulo": "OpenAI y la división de medios de LVMH",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "openai-healthcare-computer-use",
+      "titulo": "ChatGPT for Healthcare con uso de computadora",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "nvidia-sc26-announcements",
+      "titulo": "NVIDIA Nemotron for Science y DGX Spark HPC kit",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "google-maps-ask-maps-itineraries",
+      "titulo": "Google Maps arma itinerarios con Ask Maps",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "google-ai-patch-to-exploit",
+      "titulo": "IA de Google convierte parche en exploit",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "fbi-artex-ai-hacking-tool",
+      "titulo": "FBI alerta sobre Artex",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "amd-completes-world-labs",
+      "titulo": "AMD completa compra de World Labs",
+      "empresa": "AMD",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1306/amd-completes-acquisition-of-world-labs",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "perplexity-frontier-research",
+      "titulo": "Perplexity Frontier Research",
+      "empresa": "Perplexity",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "tencent-hy4-flash",
+      "titulo": "Tencent Hy4 Flash",
+      "empresa": "Tencent",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "elevenlabs-kotoba",
+      "titulo": "ElevenLabs compra Kotoba",
+      "empresa": "ElevenLabs",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://elevenlabs.io/blog/kotoba",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "dreamteam-53m",
+      "titulo": "Dreamteam US$53M CRM con IA",
+      "empresa": "Startups",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "anthropic-ipo-nov16-recap",
+      "titulo": "IPO Anthropic: rango sin cambios, precio 18 nov (CNBC)",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+      "reportado_en": "informes/2026-11-17"
     }
   ]
 }
