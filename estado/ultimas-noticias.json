@@ -1,30 +1,6 @@
 {
-  "actualizado": "2026-11-17T07:15:00-05:00",
+  "actualizado": "2026-11-18T07:15:00-05:00",
   "noticias": [
-    {
-      "id": "deepseek-v4-1-flash-1017",
-      "titulo": "DeepSeek V4.1-Flash-1017 pesos abiertos",
-      "empresa": "DeepSeek",
-      "fecha_anuncio": "2026-10-17",
-      "url": "https://api-docs.deepseek.com/news/news261017/",
-      "reportado_en": "informes/2026-10-18.md"
-    },
-    {
-      "id": "meta-muse-spark-open",
-      "titulo": "Meta Muse Spark Open",
-      "empresa": "Meta",
-      "fecha_anuncio": "2026-10-15",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "reportado_en": "informes/2026-10-18.md"
-    },
-    {
-      "id": "openai-gpt-live-1-1",
-      "titulo": "GPT-Live-1.1 voz ChatGPT",
-      "empresa": "OpenAI",
-      "fecha_anuncio": "2026-10-15",
-      "url": "https://www.notebookcheck.net/ChatGPT-Voice-GPT-Live-1-1-brings-new-voices-for-six-languages.1425810.0.html",
-      "reportado_en": "informes/2026-10-18.md"
-    },
     {
       "id": "anthropic-public-benefit-fund",
       "titulo": "Anthropic Public Benefit Fund (5% acciones)",
@@ -1720,6 +1696,46 @@
       "fecha_anuncio": "2026-11-16",
       "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
       "reportado_en": "informes/2026-11-17"
+    },
+    {
+      "id": "nvidia-q3-fy27-results",
+      "titulo": "NVIDIA T3 FY27: US$115.800M, guía T4 US$130.000M",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "reportado_en": "informes/2026-11-18"
+    },
+    {
+      "id": "nvidia-board-no-reinstate-huang",
+      "titulo": "Junta de NVIDIA no reinstalaría a Huang (RTTNews)",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://www.rttnews.com/3715835/nvidia-q3-results-surge-on-data-center-strength-board-not-to-reinstate-huang-as-ceo-stock-gains.aspx",
+      "reportado_en": "informes/2026-11-18"
+    },
+    {
+      "id": "microsoft-ignite-2026-day1",
+      "titulo": "Ignite 2026: Copilot Code, Autopilot, Office in Copilot, MAI-Code-2",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+      "reportado_en": "informes/2026-11-18"
+    },
+    {
+      "id": "anthropic-ipo-guide-top-of-range-nov17",
+      "titulo": "Anthropic guía IPO al tope del rango o más (Bloomberg)",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above",
+      "reportado_en": "informes/2026-11-18"
+    },
+    {
+      "id": "anthropic-meetings-incident-nov17",
+      "titulo": "Incidente: Claude no podía unirse a reuniones",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://status.claude.com",
+      "reportado_en": "informes/2026-11-18"
     }
   ]
 }
