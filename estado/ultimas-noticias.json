@@ -1,78 +1,6 @@
 {
-  "actualizado": "2026-11-18T07:15:00-05:00",
+  "actualizado": "2026-11-19T07:20:00-05:00",
   "noticias": [
-    {
-      "id": "anthropic-public-benefit-fund",
-      "titulo": "Anthropic Public Benefit Fund (5% acciones)",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-18",
-      "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "reportado_en": "informes/2026-10-19.md"
-    },
-    {
-      "id": "sites-block-ai-agents",
-      "titulo": "Amazon, bancos y Delta bloquean agentes de IA",
-      "empresa": "Varias",
-      "fecha_anuncio": "2026-10-17",
-      "url": "https://www.notebookcheck.net/US-banks-and-Amazon-are-blocking-AI-agents-like-Meta-s-Muse.1427833.0.html",
-      "reportado_en": "informes/2026-10-19.md"
-    },
-    {
-      "id": "anthropic-blackstone-financing",
-      "titulo": "Anthropic y Blackstone deuda para chips",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-16",
-      "url": "https://money.usnews.com/investing/news/articles/2026-10-16/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal-ft-reports",
-      "reportado_en": "informes/2026-10-19.md"
-    },
-    {
-      "id": "anthropic-agent-negotiation-lawyers",
-      "titulo": "Anthropic abogados para agentes negociadores y borrador de ley",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-17",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/",
-      "reportado_en": "informes/2026-10-19.md"
-    },
-    {
-      "id": "microsoft-nscale-exit",
-      "titulo": "Microsoft deja centro de datos Nscale UK",
-      "empresa": "Microsoft",
-      "fecha_anuncio": "2026-10-18",
-      "url": "https://capacityglobal.com/news/microsofts-nscale-exit-a-3bn-ipo-meets-a-uk-grid-problem/",
-      "reportado_en": "informes/2026-10-19.md"
-    },
-    {
-      "id": "meta-commercial-terms-scraping",
-      "titulo": "Términos comerciales de Meta y rastreo",
-      "empresa": "Meta",
-      "fecha_anuncio": "2026-10-30",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "reportado_en": "informes/2026-10-19.md"
-    },
-    {
-      "id": "openai-gpt6-pro-parallel-agents",
-      "titulo": "GPT-6 Pro agentes en paralelo y Codex",
-      "empresa": "OpenAI",
-      "fecha_anuncio": "2026-10-16",
-      "url": "https://releasebot.io/updates/openai/chatgpt",
-      "reportado_en": "informes/2026-10-19.md"
-    },
-    {
-      "id": "github-copilot-autofix-ga",
-      "titulo": "GitHub Copilot autofix GA y retiro de modelos 16 nov",
-      "empresa": "Microsoft",
-      "fecha_anuncio": "2026-10-15",
-      "url": "https://github.blog/changelog/label/copilot/",
-      "reportado_en": "informes/2026-10-19.md"
-    },
-    {
-      "id": "agntcon-mcpcon-2026",
-      "titulo": "AGNTCon + MCPCon 22-23 oct",
-      "empresa": "Linux Foundation",
-      "fecha_anuncio": "2026-10-22",
-      "url": "https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-global-2026-events-program-anchored-by-agntcon-mcpcon-north-america-and-europe",
-      "reportado_en": "informes/2026-10-19.md"
-    },
     {
       "id": "openai-rogue-agent-crypto-wallet",
       "titulo": "Agente de OpenAI usó billetera cripto ajena",
@@ -1736,6 +1664,94 @@
       "fecha_anuncio": "2026-11-17",
       "url": "https://status.claude.com",
       "reportado_en": "informes/2026-11-18"
+    },
+    {
+      "id": "anthropic-ipo-priced-83",
+      "titulo": "Anthropic fija IPO en US$83, ~US$81.300M",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "reportado_en": "informes/2026-11-19"
+    },
+    {
+      "id": "google-gemini-4-neon",
+      "titulo": "Google lanza Gemini 4 Neon",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "reportado_en": "informes/2026-11-19"
+    },
+    {
+      "id": "openai-gpt-6-2-astra-sol",
+      "titulo": "OpenAI lanza GPT-6.2 Astra y Sol",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "reportado_en": "informes/2026-11-19"
+    },
+    {
+      "id": "nvidia-stock-nov18-china-halt",
+      "titulo": "NVIDIA cae 2,9% y frena envíos Hopper a China",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-nvidia-slips-on-strong-results-as-succession-and-china-business-risks-weigh/",
+      "reportado_en": "informes/2026-11-19"
+    },
+    {
+      "id": "microsoft-decision-1-1-ga",
+      "titulo": "Microsoft-Decision-1.1 GA",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://commandline.microsoft.com/microsoft-decision-model-ga/",
+      "reportado_en": "informes/2026-11-19"
+    },
+    {
+      "id": "microsoft-ignite-2026-security-windows-details",
+      "titulo": "Ignite: seguridad para agentes en Windows",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://blogs.windows.com/windowsexperience/2026/11/17/microsoft-ignite-2026-building-windows-for-the-next-era-of-work/",
+      "reportado_en": "informes/2026-11-19"
+    },
+    {
+      "id": "google-genie-4-project-genie-available",
+      "titulo": "Project Genie para AI Ultra",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "reportado_en": "informes/2026-11-19"
+    },
+    {
+      "id": "banks-customers-liable-ai-agents",
+      "titulo": "Bancos: el cliente responde por sus agentes de IA",
+      "empresa": "Banca",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "reportado_en": "informes/2026-11-19"
+    },
+    {
+      "id": "openai-figaro-daybreak-accounting",
+      "titulo": "OpenAI: Le Figaro, Daybreak OTAN, ChatGPT for Accounting",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership/",
+      "reportado_en": "informes/2026-11-19"
+    },
+    {
+      "id": "openai-chip-design-jalapeno",
+      "titulo": "OpenAI usa sus modelos para diseño de chips",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "reportado_en": "informes/2026-11-19"
+    },
+    {
+      "id": "schools-google-search-ai-nyt",
+      "titulo": "Colegios evalúan alternativas a Google Search",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+      "reportado_en": "informes/2026-11-19"
     }
   ]
 }
