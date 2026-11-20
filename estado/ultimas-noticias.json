@@ -1,38 +1,6 @@
 {
-  "actualizado": "2026-11-19T07:20:00-05:00",
+  "actualizado": "2026-11-20T07:15:00-05:00",
   "noticias": [
-    {
-      "id": "openai-rogue-agent-crypto-wallet",
-      "titulo": "Agente de OpenAI usó billetera cripto ajena",
-      "empresa": "OpenAI",
-      "fecha_anuncio": "2026-10-16",
-      "url": "https://fortune.com/2026/10/16/rogue-openai-agent-crypto-wallet-funds-task/",
-      "reportado_en": "informes/2026-10-20.md"
-    },
-    {
-      "id": "deepseek-search-fetch-api",
-      "titulo": "DeepSeek APIs Search y Fetch con cobro por solicitud",
-      "empresa": "DeepSeek",
-      "fecha_anuncio": "2026-10-16",
-      "url": "https://sessionwatcher.com/news/deepseek-search-fetch-api-pricing-claude-code-codex-web-search",
-      "reportado_en": "informes/2026-10-20.md"
-    },
-    {
-      "id": "nvidia-vera-cpu-agents",
-      "titulo": "NVIDIA CPU Vera para agentes",
-      "empresa": "NVIDIA",
-      "fecha_anuncio": "2026-10-19",
-      "url": "https://tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster",
-      "reportado_en": "informes/2026-10-20.md"
-    },
-    {
-      "id": "google-ai-mode-links",
-      "titulo": "Más enlaces en AI Mode y AI Overviews",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-10-15",
-      "url": "https://9to5google.com/2026/10/15/google-ai-mode-overviews-links/",
-      "reportado_en": "informes/2026-10-20.md"
-    },
     {
       "id": "microsoft-onedrive-copilot-announcements-1020",
       "titulo": "Evento OneDrive + Copilot: Hero Links, Copilot multiarchivo, fotos IA",
@@ -1752,6 +1720,94 @@
       "fecha_anuncio": "2026-11-18",
       "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
       "reportado_en": "informes/2026-11-19"
+    },
+    {
+      "id": "anthropic-ant-debut-day1-close-97",
+      "titulo": "Anthropic debuta en Nasdaq y cierra en US$97,17 (+17%)",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-19",
+      "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/",
+      "reportado_en": "informes/2026-11-20"
+    },
+    {
+      "id": "meta-muse-signal-bank-data-privacy",
+      "titulo": "Meta Muse leyó mensajes de Signal y saldos ajenos",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-11-19",
+      "url": "https://aiweekly.co/alerts/metas-muse-ai-read-signal-messages-staff-warned-internally",
+      "reportado_en": "informes/2026-11-20"
+    },
+    {
+      "id": "gemini-4-neon-independent-eval",
+      "titulo": "Evaluación independiente de Gemini 4 Neon",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-19",
+      "url": "https://artificialanalysis.ai/models/gemini-4-neon",
+      "reportado_en": "informes/2026-11-20"
+    },
+    {
+      "id": "gpt-6-2-astra-early-tester-criticism",
+      "titulo": "Críticas a GPT-6.2 Astra",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-19",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-19-2026/",
+      "reportado_en": "informes/2026-11-20"
+    },
+    {
+      "id": "openai-healthcare-computer-use-agents",
+      "titulo": "OpenAI agentes de salud con UpToDate y Oracle",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://www.implicator.ai/llm-meter-week-of-nov-19-2026/",
+      "reportado_en": "informes/2026-11-20"
+    },
+    {
+      "id": "microsoft-ignite-azure-data-ops-nov19",
+      "titulo": "Ignite: anuncios de Azure",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-11-19",
+      "url": "https://virtualizationreview.com/articles/2026/11/17/microsoft-ignite-2026-top-azure-announcements-for-enterprise-it.aspx",
+      "reportado_en": "informes/2026-11-20"
+    },
+    {
+      "id": "microsoft-nadella-buyout-agency-dealbook",
+      "titulo": "Nadella y los retiros voluntarios",
+      "empresa": "Microsoft",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://aiweekly.co/alerts/nadella-frames-60000-employee-microsoft-buyout-as-agency",
+      "reportado_en": "informes/2026-11-20"
+    },
+    {
+      "id": "palo-alto-applied-compute-4-5b",
+      "titulo": "Palo Alto compra Applied Compute por US$4.500M",
+      "empresa": "Palo Alto Networks",
+      "fecha_anuncio": "2026-11-19",
+      "url": "https://aiweekly.co/alerts/palo-alto-networks-to-buy-applied-compute-for-45b-in-stock",
+      "reportado_en": "informes/2026-11-20"
+    },
+    {
+      "id": "coinbase-ai-blocks-fake-musk-scam",
+      "titulo": "Coinbase bloquea estafa con Musk falso",
+      "empresa": "Coinbase",
+      "fecha_anuncio": "2026-11-19",
+      "url": "https://aiweekly.co/alerts/coinbase-ai-blocks-47m-in-transfers-to-ai-generated-elon-musk-tesla-giveaway",
+      "reportado_en": "informes/2026-11-20"
+    },
+    {
+      "id": "mistral-deutsche-telekom-100m",
+      "titulo": "Deutsche Telekom invierte €100M en Mistral",
+      "empresa": "Mistral",
+      "fecha_anuncio": "2026-11-19",
+      "url": "https://www.implicator.ai/llm-meter-week-of-nov-19-2026/",
+      "reportado_en": "informes/2026-11-20"
+    },
+    {
+      "id": "xai-sued-grok-sexualized-images",
+      "titulo": "Demanda a xAI por imágenes de Grok",
+      "empresa": "xAI",
+      "fecha_anuncio": "2026-11-18",
+      "url": "https://aiweekly.co/alerts/muslim-girl-founder-sues-xai-after-grok-users-stripped-her-hijab-and-generated",
+      "reportado_en": "informes/2026-11-20"
     }
   ]
 }
