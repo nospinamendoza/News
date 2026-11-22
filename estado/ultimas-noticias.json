@@ -1,54 +1,6 @@
 {
-  "actualizado": "2026-11-21T07:15:00-05:00",
+  "actualizado": "2026-11-22T07:20:00-05:00",
   "noticias": [
-    {
-      "id": "anthropic-claude-duet",
-      "titulo": "Claude Duet, agente proactivo (vista previa)",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-21",
-      "url": "https://claude.com/resources/articles/claude-duet",
-      "reportado_en": "informes/2026-10-22.md"
-    },
-    {
-      "id": "anthropic-api-2026-10-21-security-beta",
-      "titulo": "Nueva versión API y Claude Security beta",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-21",
-      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
-      "reportado_en": "informes/2026-10-22.md"
-    },
-    {
-      "id": "anthropic-ltbt-stubbs",
-      "titulo": "Christopher Stubbs se une al Long-Term Benefit Trust",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-21",
-      "url": "https://www.anthropic.com/news",
-      "reportado_en": "informes/2026-10-22.md"
-    },
-    {
-      "id": "google-docs-live-mobile",
-      "titulo": "Docs Live en móvil y mejoras en Gemini Notebook",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-10-21",
-      "url": "https://workspaceupdates.googleblog.com/",
-      "reportado_en": "informes/2026-10-22.md"
-    },
-    {
-      "id": "recursive-flint",
-      "titulo": "Recursive lanza Flint",
-      "empresa": "Recursive",
-      "fecha_anuncio": "2026-10-21",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "reportado_en": "informes/2026-10-22.md"
-    },
-    {
-      "id": "legora-funding-oct",
-      "titulo": "Legora ronda US$550M",
-      "empresa": "Legora",
-      "fecha_anuncio": "2026-10-21",
-      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-      "reportado_en": "informes/2026-10-22.md"
-    },
     {
       "id": "aaif-four-new-projects",
       "titulo": "AAIF suma Agent Skills, Open Responses, OpenEnv y OpenSandbox",
@@ -1792,6 +1744,70 @@
       "fecha_anuncio": "2026-11-18",
       "url": "https://blog.cloudflare.com/open-clairic/",
       "reportado_en": "informes/2026-11-21"
+    },
+    {
+      "id": "nasdaq-close-nov20-ai-rout",
+      "titulo": "Nasdaq -5,28% el 20 nov; peor semana desde 2020",
+      "empresa": "Mercados",
+      "fecha_anuncio": "2026-11-20",
+      "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/",
+      "reportado_en": "informes/2026-11-22"
+    },
+    {
+      "id": "nvidia-california-ag-subpoena",
+      "titulo": "Fiscal de California cita a NVIDIA",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-19",
+      "url": "https://thedailyguardian.com/business/california-ag-subpoenas-nvidia-over-concerns-about-former-ceo-china-ties-776375/",
+      "reportado_en": "informes/2026-11-22"
+    },
+    {
+      "id": "openai-oregon-lawsuit-2b",
+      "titulo": "Oregon demanda a OpenAI por US$2.035M",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://www.opb.org/article/2026/11/17/oregon-ag-sues-openai-claims-company-knowingly-endangers-teens/",
+      "reportado_en": "informes/2026-11-22"
+    },
+    {
+      "id": "google-gemini-tasks-calls-businesses",
+      "titulo": "Gemini Tasks llama a negocios",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-17",
+      "url": "https://androidauthority.com/google-gemini-tasks-update-3736266",
+      "reportado_en": "informes/2026-11-22"
+    },
+    {
+      "id": "anthropic-ipo-closed-93-5b",
+      "titulo": "Anthropic cierra IPO con sobreasignación (~US$93.500M)",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-20",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-21-2026-anthropic-closes-a-935b-ipo-gemini-learns-to-drive-your-mac-5cj9",
+      "reportado_en": "informes/2026-11-22"
+    },
+    {
+      "id": "anthropic-npr-ipo-safety-analysis",
+      "titulo": "NPR: IPO pone a prueba la misión de seguridad",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-21",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+      "reportado_en": "informes/2026-11-22"
+    },
+    {
+      "id": "openrouter-minimax-prompts-warning",
+      "titulo": "OpenRouter: prompts vía MiniMax pudieron ser leídos",
+      "empresa": "OpenRouter",
+      "fecha_anuncio": "2026-11-21",
+      "url": "https://explainx.ai/blog/openrouter-minimax-prompts-may-have-been-read-customer-email-november-2026",
+      "reportado_en": "informes/2026-11-22"
+    },
+    {
+      "id": "cognition-devin-security-threats",
+      "titulo": "Cognition Devin Security Threats",
+      "empresa": "Cognition",
+      "fecha_anuncio": "2026-11-21",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-21-2026-anthropic-closes-a-935b-ipo-gemini-learns-to-drive-your-mac-5cj9",
+      "reportado_en": "informes/2026-11-22"
     }
   ]
 }
