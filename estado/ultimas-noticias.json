@@ -1,46 +1,6 @@
 {
-  "actualizado": "2026-11-22T07:20:00-05:00",
+  "actualizado": "2026-11-23T07:15:00-05:00",
   "noticias": [
-    {
-      "id": "aaif-four-new-projects",
-      "titulo": "AAIF suma Agent Skills, Open Responses, OpenEnv y OpenSandbox",
-      "empresa": "Linux Foundation",
-      "fecha_anuncio": "2026-10-22",
-      "url": "https://aaif.io/news/agentic-ai-foundation-announces-four-new-projects",
-      "reportado_en": "informes/2026-10-23.md"
-    },
-    {
-      "id": "google-agent-compute-engine",
-      "titulo": "Google Agent Compute Engine y gobernanza de agentes",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-10-22",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance",
-      "reportado_en": "informes/2026-10-23.md"
-    },
-    {
-      "id": "google-meet-translation-63",
-      "titulo": "Meet traduce voz en 63 idiomas; Vault exporta Gemini",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-10-22",
-      "url": "https://workspaceupdates.googleblog.com/",
-      "reportado_en": "informes/2026-10-23.md"
-    },
-    {
-      "id": "openai-30b-raise",
-      "titulo": "OpenAI negocia US$30.000M a US$1,25 billones",
-      "empresa": "OpenAI",
-      "fecha_anuncio": "2026-10-22",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "reportado_en": "informes/2026-10-23.md"
-    },
-    {
-      "id": "deepseek-15b-us-federal-ban",
-      "titulo": "DeepSeek US$15.000M y retiro de agencias federales EE. UU.",
-      "empresa": "DeepSeek",
-      "fecha_anuncio": "2026-10-22",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "reportado_en": "informes/2026-10-23.md"
-    },
     {
       "id": "openai-no-live-internet-training",
       "titulo": "OpenAI deja de entrenar con internet en vivo",
@@ -1808,6 +1768,134 @@
       "fecha_anuncio": "2026-11-21",
       "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-21-2026-anthropic-closes-a-935b-ipo-gemini-learns-to-drive-your-mac-5cj9",
       "reportado_en": "informes/2026-11-22"
+    },
+    {
+      "id": "openai-perplexity-common-limits",
+      "titulo": "OpenAI: Perplexity and Intelligence, límites comunes",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-22",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "openai-dots-plus-business-standard",
+      "titulo": "Dots en ChatGPT Plus y Business Standard",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-19",
+      "url": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "openai-reseller-approval-rule",
+      "titulo": "OpenAI exige aprobación a revendedores",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-20",
+      "url": "https://www.semafor.com/article/11/20/2026/openai-tightens-grip-on-model-resellers",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "openai-academic-researchers-applications-open",
+      "titulo": "Abren solicitudes ChatGPT para investigadores",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://itbrief.com.au/story/openai-expands-free-chatgpt-access-for-researchers",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "trump-xi-military-ai-humans",
+      "titulo": "Trump y Xi: humanos en decisiones militares con IA",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-20",
+      "url": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "bessent-fed-ai-bubble-fears",
+      "titulo": "Bessent advierte contra subir tasas",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-22",
+      "url": "https://www.semafor.com/article/11/22/2026/bessent-warns-on-fed-hike-as-ai-bubble-fears-mount",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "openrouter-removes-3-providers",
+      "titulo": "OpenRouter retira 3 proveedores ZDR",
+      "empresa": "OpenRouter",
+      "fecha_anuncio": "2026-11-22",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "signal-blocks-os-ai-screen-reading",
+      "titulo": "Signal bloquea lectura de chats por IA del sistema",
+      "empresa": "Signal",
+      "fecha_anuncio": "2026-11-22",
+      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "anthropic-riemann-claude-claim",
+      "titulo": "Reclamo de prueba de Riemann con Claude (en revisión)",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-20",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "anthropic-wsj-wapo-profiles-post-ipo",
+      "titulo": "Perfiles de los Amodei tras la IPO",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-22",
+      "url": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "nvidia-next-ceo-fortune",
+      "titulo": "Fortune: prioridades del próximo CEO de NVIDIA",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-22",
+      "url": "https://fortune.com/2026/11/22/nvidia-next-ceo-international-business-reorganization-ai-equilibrium/",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "amazon-decart-7-5b-report",
+      "titulo": "Amazon cerca de comprar Decart",
+      "empresa": "Amazon",
+      "fecha_anuncio": "2026-11-22",
+      "url": "https://www.mexc.com/crypto-pulse/article/stocks-ai-daily-on-nov-23-2026-193011",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "architect-labs-frostbite-ai-designed-cpu",
+      "titulo": "Architect Labs: CPU Frostbite diseñada por IA",
+      "empresa": "Startups",
+      "fecha_anuncio": "2026-11-22",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "spacex-43b-project-saturn",
+      "titulo": "SpaceX deuda ~US$43.000M con Vera Rubin",
+      "empresa": "xAI",
+      "fecha_anuncio": "2026-11-22",
+      "url": "https://fortune.com/2026/11/22/spacex-74-billion-ai-data-centers-texas-arizona-who-pays/",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "meta-net-zero-2030-review",
+      "titulo": "Meta revisa meta cero emisiones 2030",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-11-22",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "thinking-machines-inkling-2-mini",
+      "titulo": "Thinking Machines Inkling 2 Mini",
+      "empresa": "Thinking Machines",
+      "fecha_anuncio": "2026-11-20",
+      "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop",
+      "reportado_en": "informes/2026-11-23"
     }
   ]
 }
