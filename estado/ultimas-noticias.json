@@ -1,46 +1,6 @@
 {
-  "actualizado": "2026-11-23T07:15:00-05:00",
+  "actualizado": "2026-11-24T07:15:00-05:00",
   "noticias": [
-    {
-      "id": "openai-no-live-internet-training",
-      "titulo": "OpenAI deja de entrenar con internet en vivo",
-      "empresa": "OpenAI",
-      "fecha_anuncio": "2026-10-23",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "reportado_en": "informes/2026-10-24.md"
-    },
-    {
-      "id": "anthropic-claude-on-google-cloud",
-      "titulo": "Claude Models on Google Cloud (operado por Anthropic) y fast mode Opus 5.5",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-22",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "reportado_en": "informes/2026-10-24.md"
-    },
-    {
-      "id": "xai-partner-network",
-      "titulo": "xAI Super Intelligence Partner Network",
-      "empresa": "xAI",
-      "fecha_anuncio": "2026-10-22",
-      "url": "https://x.ai/partners",
-      "reportado_en": "informes/2026-10-24.md"
-    },
-    {
-      "id": "google-chrome-gemini-scam-detection",
-      "titulo": "Chrome detecta estafas con Gemini",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-10-20",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "reportado_en": "informes/2026-10-24.md"
-    },
-    {
-      "id": "daytona-60m",
-      "titulo": "Daytona US$60M nube de agentes",
-      "empresa": "Daytona",
-      "fecha_anuncio": "2026-10-20",
-      "url": "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/",
-      "reportado_en": "informes/2026-10-24.md"
-    },
     {
       "id": "anthropic-mythos5-ukaisi-incident",
       "titulo": "Informe Claude Mythos 5 en prueba del UK AISI",
@@ -1896,6 +1856,134 @@
       "fecha_anuncio": "2026-11-20",
       "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop",
       "reportado_en": "informes/2026-11-23"
+    },
+    {
+      "id": "nvidia-huang-reinstated-ceo",
+      "titulo": "NVIDIA repone a Jensen Huang como CEO",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "markets-close-nov23-nvidia-rebound",
+      "titulo": "Nasdaq +6,51%, NVIDIA +31,5% el 23 nov",
+      "empresa": "Mercados",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://financefeeds.com/stock-market-today-nasdaq-jumps-6-5-percent-as-huang-returns/",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "anthropic-claude-ship-pr-agents",
+      "titulo": "Anthropic Claude Ship",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "anthropic-enterprise-frontier-safeguards-bedrock",
+      "titulo": "Enterprise Frontier Safeguards y Bedrock Trusted Access",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "spacex-compute-anthropic-google",
+      "titulo": "SpaceX vendería cómputo a Anthropic y Google",
+      "empresa": "xAI",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "openai-openworks-small-business",
+      "titulo": "OpenAI OpenWorks para pymes",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "openai-gpt-6-2-sol-rollout-details",
+      "titulo": "GPT-6.2 Sol en Plus, Pro, Business y Enterprise",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "openai-shirudo-linux-security",
+      "titulo": "OpenAI y Cisco Shirudo",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://openai.com/index/introducing-shirudo/",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "google-ai-mode-drive-wallet",
+      "titulo": "AI Mode con Drive y Wallet",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "deepmind-quantum-agents-fusion",
+      "titulo": "DeepMind agentes y algoritmos cuánticos",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "amazon-decart-agreed-techcrunch",
+      "titulo": "Amazon acuerda comprar tecnología de Decart (reportado)",
+      "empresa": "Amazon",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "spacex-grok-lawsuits-oregon-virginia",
+      "titulo": "Oregon y Virginia demandan a SpaceX/xAI",
+      "empresa": "xAI",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "megaspeed-trade-blacklist",
+      "titulo": "Megaspeed en lista negra comercial",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://www.bbc.com/news/articles/cv98xpg5dg5zo",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "zai-glm-5-4",
+      "titulo": "Z.ai GLM-5.4",
+      "empresa": "Z.ai",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://z.ai/blog/glm-5.4",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "nhs-edith-ai-mammography-trial",
+      "titulo": "Ensayo EDITH de IA en mamografías (Reino Unido)",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://www.semafor.com/article/11/23/2026/uk-starts-major-ai-breast-cancer-trial",
+      "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "canva-mcp-ga",
+      "titulo": "Canva MCP GA",
+      "empresa": "Canva",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://www.canva.com/newsroom/news/canva-mcp-update/",
+      "reportado_en": "informes/2026-11-24"
     }
   ]
 }
