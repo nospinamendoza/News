@@ -1,46 +1,6 @@
 {
-  "actualizado": "2026-11-24T07:15:00-05:00",
+  "actualizado": "2026-11-25T07:20:00-05:00",
   "noticias": [
-    {
-      "id": "anthropic-mythos5-ukaisi-incident",
-      "titulo": "Informe Claude Mythos 5 en prueba del UK AISI",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-23",
-      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-      "reportado_en": "informes/2026-10-25.md"
-    },
-    {
-      "id": "grok-gpt-political-picks-study",
-      "titulo": "Estudio: Grok elige republicanos, GPT demócratas",
-      "empresa": "xAI/OpenAI",
-      "fecha_anuncio": "2026-10-24",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "reportado_en": "informes/2026-10-25.md"
-    },
-    {
-      "id": "reservoir-sues-anthropic-suno",
-      "titulo": "Reservoir demanda a Anthropic y Suno",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-21",
-      "url": "https://www.digitalmusicnews.com/2026/10/22/reservoir-media-suno-anthropic-lawsuit/",
-      "reportado_en": "informes/2026-10-25.md"
-    },
-    {
-      "id": "deepseek-minimax-overseas-approval",
-      "titulo": "China autoriza DeepSeek y MiniMax en el extranjero",
-      "empresa": "DeepSeek",
-      "fecha_anuncio": "2026-10-22",
-      "url": "https://money.usnews.com/investing/news/articles/2026-10-23/chinas-deepseek-minimax-win-approval-for-ai-global-use-state-media-affiliated-entity-says",
-      "reportado_en": "informes/2026-10-25.md"
-    },
-    {
-      "id": "bigtech-earnings-oct-28-29",
-      "titulo": "Resultados Alphabet, Microsoft (28 oct) y Amazon (29 oct)",
-      "empresa": "Varias",
-      "fecha_anuncio": "2026-10-28",
-      "url": "https://www.forbes.com/sites/bill_stone/2026/10/25/alphabet-microsoft-and-amazon-lead-busiest-week-of-earnings-season/",
-      "reportado_en": "informes/2026-10-25.md"
-    },
     {
       "id": "anthropic-unified-claude-enterprise",
       "titulo": "Claude Enterprise unifica Chat y Cowork",
@@ -1984,6 +1944,142 @@
       "fecha_anuncio": "2026-11-23",
       "url": "https://www.canva.com/newsroom/news/canva-mcp-update/",
       "reportado_en": "informes/2026-11-24"
+    },
+    {
+      "id": "anthropic-shares-fall-below-ipo-price",
+      "titulo": "Anthropic cae >6% bajo el precio de IPO",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://www.semafor.com/article/11/24/2026/anthropic-shares-plunge-as-ai-trade-wobbles",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "markets-close-nov24-asia-selloff-nasdaq",
+      "titulo": "Nasdaq -1,5% y desplome en Asia",
+      "empresa": "Mercados",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "openai-gpt-6-protein-design",
+      "titulo": "GPT-6 diseña proteínas",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "openai-astra-matmul-preprint",
+      "titulo": "Astra busca exoplanetas; preprint matrices",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "openai-engineer-bug-bond",
+      "titulo": "Exingeniero de OpenAI sale con fianza",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "meta-muse-instagram-dms",
+      "titulo": "Muse en mensajes directos de Instagram",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "walmart-meta-muse-black-friday",
+      "titulo": "Walmart y Muse para Black Friday",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "anthropic-artifacts-desktop-mcp-anniversary",
+      "titulo": "Artifacts instalables, Skills over MCP y Tasks",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://x.com/ClaudeDevs/status/2125315491522650299",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "anthropic-neuron-interpretability-honeypot",
+      "titulo": "Anthropic: interpretabilidad de neuronas",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://alignment.anthropic.com/2026/neuron-basis-theory/",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "axios-ai-labs-employees-safety-worries",
+      "titulo": "Axios: empleados preocupados por seguridad",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "nvidia-huang-congress-scrutiny-sec-california",
+      "titulo": "Huang ante el Congreso y el Senado",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "amazon-rogue-agent-zero-day",
+      "titulo": "Agente de IA explota zero-day (Amazon)",
+      "empresa": "Amazon",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "qwen4-max-official-release-correction",
+      "titulo": "Qwen4-Max lanzamiento oficial (corrección)",
+      "empresa": "Alibaba",
+      "fecha_anuncio": "2026-11-16",
+      "url": "https://www.alibabacloud.com/press-room/alibaba-unveils-qwen4-max",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "tidal-removes-ai-tracks",
+      "titulo": "Tidal elimina canciones 100% IA",
+      "empresa": "Tidal",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "pinterest-parents-limit-ai-content",
+      "titulo": "Pinterest: padres limitan contenido IA",
+      "empresa": "Pinterest",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "midjourney-niji-v8",
+      "titulo": "Midjourney Niji V8",
+      "empresa": "Midjourney",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://x.com/midjourney/status/2125328040624521639",
+      "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "fca-agentic-ai-expectations",
+      "titulo": "FCA: expectativas para IA autónoma",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://www.fca.org.uk/firms/innovation/ai-approach/agentic-ai",
+      "reportado_en": "informes/2026-11-25"
     }
   ]
 }
