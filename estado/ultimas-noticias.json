@@ -1,46 +1,6 @@
 {
-  "actualizado": "2026-11-25T07:20:00-05:00",
+  "actualizado": "2026-11-26T07:20:00-05:00",
   "noticias": [
-    {
-      "id": "anthropic-unified-claude-enterprise",
-      "titulo": "Claude Enterprise unifica Chat y Cowork",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-23",
-      "url": "https://claude.com/resources/articles/unified-claude-enterprise",
-      "reportado_en": "informes/2026-10-26.md"
-    },
-    {
-      "id": "spacex-40b-debt-gpus",
-      "titulo": "SpaceX US$40.000M deuda para GPUs",
-      "empresa": "xAI",
-      "fecha_anuncio": "2026-10-25",
-      "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-      "reportado_en": "informes/2026-10-26.md"
-    },
-    {
-      "id": "openai-models-google-cloud",
-      "titulo": "Modelos de OpenAI en Google Cloud Model Garden",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-10-21",
-      "url": "https://thenextweb.com/news/openai-models-codex-google-cloud",
-      "reportado_en": "informes/2026-10-26.md"
-    },
-    {
-      "id": "google-privacy-personal-intelligence-ads",
-      "titulo": "Política de privacidad Google: IA personal y anuncios",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-10-16",
-      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "reportado_en": "informes/2026-10-26.md"
-    },
-    {
-      "id": "moonshot-kimi-k3-1-pro",
-      "titulo": "Moonshot Kimi K3.1 Pro",
-      "empresa": "Moonshot",
-      "fecha_anuncio": "2026-10-23",
-      "url": "https://www.tekedia.com/chinas-moonshot-ai-restricts-kimi-k3-1-pros-cyber-capabilities-ahead-of-open-weight-release/",
-      "reportado_en": "informes/2026-10-26.md"
-    },
     {
       "id": "openai-gpt-6-1-terra",
       "titulo": "OpenAI GPT-6.1 Terra",
@@ -2080,6 +2040,142 @@
       "fecha_anuncio": "2026-11-24",
       "url": "https://www.fca.org.uk/firms/innovation/ai-approach/agentic-ai",
       "reportado_en": "informes/2026-11-25"
+    },
+    {
+      "id": "market-close-nov25-thanksgiving-eve",
+      "titulo": "Cierre 25 nov: Nasdaq -0,6%, NVIDIA -4%, Anthropic +4%",
+      "empresa": "Mercados",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "anthropic-mcp-skills-tasks-anniversary",
+      "titulo": "Skills over MCP beta, Tasks y Elicitation GA",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "anthropic-api-migration-rust",
+      "titulo": "Anthropic migra su API a Rust con Claude",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "anthropic-working-with-ai-enterprise-study",
+      "titulo": "Estudio de Anthropic: IA en 58 empresas",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "anthropic-amodei-human-control-axios",
+      "titulo": "Amodei: acusaciones absurdas",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "anthropic-zurich-expansion",
+      "titulo": "Anthropic amplía Zúrich",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "openai-private-inference-pilot",
+      "titulo": "OpenAI Private Inference piloto",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://openai.com/business/private-intelligence",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "openai-chat-work-shared-limits-rollout",
+      "titulo": "Límite compartido Chat+Work inicia con Pro",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "amazon-meta-muse-block-talks",
+      "titulo": "Amazon y Meta negocian sobre Muse",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "spacex-fcc-starmind-1m-satellites",
+      "titulo": "FCC autoriza 1M satélites de IA de SpaceX",
+      "empresa": "xAI",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "new-york-ai-toy-ban",
+      "titulo": "Nueva York prohíbe juguetes con chatbots de IA",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "character-ai-auction-42-attorneys-general",
+      "titulo": "42 fiscales contra subasta de Character.AI",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "nvidia-huang-allhands-no-succession",
+      "titulo": "Huang: sin plan de sucesión; disculpas",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "ant-ling-3-2-air-mit",
+      "titulo": "Ant Group Ling-3.2-air",
+      "empresa": "Ant Group",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://technode.com/2026/11/25/ant-releases-ling-3-2-air-multimodal-model-under-mit-license/",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "prismml-ternary-bonsai-2-5-27b",
+      "titulo": "PrismML Bonsai 2.5 27B en 5,9 GB",
+      "empresa": "PrismML",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "treasury-fincen-incident-ai-tool-suspected",
+      "titulo": "FinCEN desconecta sistemas tras incidente",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
+      "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "ea-fc27-motson-ai-voice",
+      "titulo": "EA FC 27 voz IA de John Motson",
+      "empresa": "EA",
+      "fecha_anuncio": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
+      "reportado_en": "informes/2026-11-26"
     }
   ]
 }
