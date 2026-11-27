@@ -1,46 +1,6 @@
 {
-  "actualizado": "2026-11-26T07:20:00-05:00",
+  "actualizado": "2026-11-27T07:15:00-05:00",
   "noticias": [
-    {
-      "id": "openai-gpt-6-1-terra",
-      "titulo": "OpenAI GPT-6.1 Terra",
-      "empresa": "OpenAI",
-      "fecha_anuncio": "2026-10-26",
-      "url": "https://x.com/OpenAI/status/2114780711664398349",
-      "reportado_en": "informes/2026-10-27.md"
-    },
-    {
-      "id": "anthropic-ipo-filing-disclosures",
-      "titulo": "Documento IPO de Anthropic: pausa de entrenamiento e incidentes",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-26",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-discloses-monthlong-training-pause-ai-security-breaches-in-ipo-filing-4973293",
-      "reportado_en": "informes/2026-10-27.md"
-    },
-    {
-      "id": "anthropic-cathedral-red-team",
-      "titulo": "Cathedral entra a sistemas internos de Anthropic (prueba autorizada)",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-26",
-      "url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
-      "reportado_en": "informes/2026-10-27.md"
-    },
-    {
-      "id": "nvidia-meta-3b-muse",
-      "titulo": "NVIDIA invierte US$3.000M en Meta, alianza Muse",
-      "empresa": "Meta",
-      "fecha_anuncio": "2026-10-27",
-      "url": "https://www.axios.com/2026/10/27/nvidia-meta-muse-investment",
-      "reportado_en": "informes/2026-10-27.md"
-    },
-    {
-      "id": "openai-pro-codex-limits",
-      "titulo": "Límites de Codex en ChatGPT Pro desde 30 oct",
-      "empresa": "OpenAI",
-      "fecha_anuncio": "2026-10-26",
-      "url": "https://x.com/i/trending/2114596470556917945",
-      "reportado_en": "informes/2026-10-27.md"
-    },
     {
       "id": "anthropic-drug-development-mithril",
       "titulo": "Claude en desarrollo de fármacos y compra de Mithril Medicine",
@@ -2176,6 +2136,78 @@
       "fecha_anuncio": "2026-11-26",
       "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
       "reportado_en": "informes/2026-11-26"
+    },
+    {
+      "id": "nvidia-pauses-server-shipments-southeast-asia",
+      "titulo": "NVIDIA pausa envíos de servidores al sudeste asiático",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-26",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63661506/nvidia-pauses-server-shipments-to-4-southeast-asian-nations-as-us-tightens-china-ai-chip-controls-report",
+      "reportado_en": "informes/2026-11-27"
+    },
+    {
+      "id": "sp-considers-nvidia-downgrade",
+      "titulo": "S&P evalúa rebajar a NVIDIA a AA-",
+      "empresa": "NVIDIA",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "reportado_en": "informes/2026-11-27"
+    },
+    {
+      "id": "gemini-4-argon-carbon-price-doubles-dec1",
+      "titulo": "Argon y Carbon duplican precio el 1 dic",
+      "empresa": "Google",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://news.sulat.com/2026/11/25/gemini-4-argon-guides",
+      "reportado_en": "informes/2026-11-27"
+    },
+    {
+      "id": "market-open-nov27-black-friday-ai-rebound",
+      "titulo": "Futuros y Asia rebotan el 27 nov",
+      "empresa": "Mercados",
+      "fecha_anuncio": "2026-11-27",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout",
+      "reportado_en": "informes/2026-11-27"
+    },
+    {
+      "id": "adobe-black-friday-ai-traffic",
+      "titulo": "Adobe: tráfico desde IA +127% en la temporada",
+      "empresa": "Comercio",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://business.adobe.com/blog/ai-traffic-higher-revenue-per-visit-retail-holiday",
+      "reportado_en": "informes/2026-11-27"
+    },
+    {
+      "id": "cognition-swe-2-1",
+      "titulo": "Cognition SWE-2.1",
+      "empresa": "Cognition",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-26-2026-one-meter-for-chatgpt-and-codex-cognition-doubles-down-europe-2j0o",
+      "reportado_en": "informes/2026-11-27"
+    },
+    {
+      "id": "sakana-namazu-small",
+      "titulo": "Sakana AI Namazu Small",
+      "empresa": "Sakana AI",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-26-2026-one-meter-for-chatgpt-and-codex-cognition-doubles-down-europe-2j0o",
+      "reportado_en": "informes/2026-11-27"
+    },
+    {
+      "id": "meta-your-algorithm-facebook",
+      "titulo": "Meta Your Algorithm",
+      "empresa": "Meta",
+      "fecha_anuncio": "2026-11-24",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-26-2026-one-meter-for-chatgpt-and-codex-cognition-doubles-down-europe-2j0o",
+      "reportado_en": "informes/2026-11-27"
+    },
+    {
+      "id": "eu-sovereign-tech-equity-fund",
+      "titulo": "UE fondo tecnológico soberano €50.000M",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-25",
+      "url": "https://www.dw.com/en/eu-plans-50-billion-sovereign-tech-equity-fund-to-boost-quantum-technology/a-80047569",
+      "reportado_en": "informes/2026-11-27"
     }
   ]
 }
