@@ -1,54 +1,6 @@
 {
-  "actualizado": "2026-11-27T07:15:00-05:00",
+  "actualizado": "2026-11-28T07:15:00-05:00",
   "noticias": [
-    {
-      "id": "anthropic-drug-development-mithril",
-      "titulo": "Claude en desarrollo de fármacos y compra de Mithril Medicine",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-27",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "reportado_en": "informes/2026-10-28.md"
-    },
-    {
-      "id": "anthropic-gsa-onegov-40",
-      "titulo": "Descuento 40% Claude para gobiernos de EE. UU. (GSA)",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-27",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "reportado_en": "informes/2026-10-28.md"
-    },
-    {
-      "id": "anthropic-s1-filed",
-      "titulo": "Anthropic publica su S-1",
-      "empresa": "Anthropic",
-      "fecha_anuncio": "2026-10-26",
-      "url": "https://www.anthropic.com/news",
-      "reportado_en": "informes/2026-10-28.md"
-    },
-    {
-      "id": "oracle-openai-chatgpt-codex",
-      "titulo": "Oracle integra ChatGPT y Codex",
-      "empresa": "OpenAI",
-      "fecha_anuncio": "2026-10-27",
-      "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-      "reportado_en": "informes/2026-10-28.md"
-    },
-    {
-      "id": "apple-ios-27-2-siri-spanish",
-      "titulo": "iOS 27.2: Siri AI beta en español y asistente iWork",
-      "empresa": "Apple",
-      "fecha_anuncio": "2026-10-26",
-      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-      "reportado_en": "informes/2026-10-28.md"
-    },
-    {
-      "id": "google-gemini-api-cli-servicenow",
-      "titulo": "Gemini API CLI beta y alianza ServiceNow",
-      "empresa": "Google",
-      "fecha_anuncio": "2026-10-27",
-      "url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "reportado_en": "informes/2026-10-28.md"
-    },
     {
       "id": "alphabet-q3-2026-results",
       "titulo": "Alphabet T3: Cloud +103%, Gemini 1.000M usuarios",
@@ -2208,6 +2160,54 @@
       "fecha_anuncio": "2026-11-25",
       "url": "https://www.dw.com/en/eu-plans-50-billion-sovereign-tech-equity-fund-to-boost-quantum-technology/a-80047569",
       "reportado_en": "informes/2026-11-27"
+    },
+    {
+      "id": "market-close-nov27-black-friday-rebound-november-balance",
+      "titulo": "Cierre 27 nov y balance de noviembre (NVIDIA -26,5%)",
+      "empresa": "Mercados",
+      "fecha_anuncio": "2026-11-27",
+      "url": "https://www.techi.com/chip-index-november-2026-third-worst-since-1999-nasdaq-nvidia-close/",
+      "reportado_en": "informes/2026-11-28"
+    },
+    {
+      "id": "adobe-black-friday-9-7b-by-evening-thanksgiving-7-1b",
+      "titulo": "Adobe: Black Friday US$9.700M parcial; IA +162%",
+      "empresa": "Comercio",
+      "fecha_anuncio": "2026-11-27",
+      "url": "https://gsmglobalnews.com/article/d20261127-gap1942-adobebf1.html",
+      "reportado_en": "informes/2026-11-28"
+    },
+    {
+      "id": "salesforce-cyber-week-ai-influence-forecast",
+      "titulo": "Salesforce: IA influiría en US$75.800M Cyber Week",
+      "empresa": "Comercio",
+      "fecha_anuncio": "2026-11-27",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/black-friday-2026-sales-cyber-monday-retail-stocks",
+      "reportado_en": "informes/2026-11-28"
+    },
+    {
+      "id": "anthropic-opus-4-5-retirement-jan2027",
+      "titulo": "Claude Opus 4.5 se retira de la API el 22 ene 2027",
+      "empresa": "Anthropic",
+      "fecha_anuncio": "2026-11-23",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "reportado_en": "informes/2026-11-28"
+    },
+    {
+      "id": "openai-gpt-5-6-luna-default-free",
+      "titulo": "GPT-5.6 Luna por defecto en Free y Go",
+      "empresa": "OpenAI",
+      "fecha_anuncio": "2026-11-27",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "reportado_en": "informes/2026-11-28"
+    },
+    {
+      "id": "singapore-us-talks-export-rules",
+      "titulo": "Singapur busca diálogo con EE. UU. sobre reglas de chips",
+      "empresa": "Regulación",
+      "fecha_anuncio": "2026-11-27",
+      "url": "https://scmp.com/week-asia/economics/article/3374665/singapore-seeks-us-talks-ai-chip-export-rules-amid-nvidia-fallout-megaspeed-probe",
+      "reportado_en": "informes/2026-11-28"
     }
   ]
 }
